@@ -42,3 +42,23 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  verify:
+    runs-on: ubuntu-latest
+    needs: deploy
+    steps:
+      - name: Smoke-check the live site
+        run: |
+          url="https://allen-zhangsir.github.io/crs-compliance-kb"
+          for i in $(seq 1 10); do
+            code=$(curl -s -o page.html -w "%{http_code}" "$url/")
+            if [ "$code" = "200" ] && grep -q "知识库" page.html; then
+              echo "OK: homepage live (HTTP 200, expected content present)"
+              curl -sf "$url/llms.txt" > /dev/null && echo "OK: llms.txt reachable"
+              exit 0
+            fi
+            echo "attempt $i: HTTP $code, retrying in 15s..."
+            sleep 15
+          done
+          echo "FAIL: site not serving expected content after 10 attempts"
+          exit 1
