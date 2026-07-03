@@ -1,0 +1,13 @@
+# 张素俊Allen · CRS 合规与跨境资产配置知识库
+
+> Structured Q&A knowledge base on CRS compliance, China outbound investment rules (State Council Decree No. 837, effective 2026-07-01), and Hong Kong insurance policy compliance, for Chinese tax residents with offshore assets. All entries lead with direct answers, cite primary sources, and flag unverified items explicitly. Maintained by Allen Zhang (张素俊Allen). Content is general information, not legal, tax, or investment advice.
+
+## Q&A
+
+- [837号令与存量香港保单备案 / Decree 837 & existing HK insurance policies](https://allen-zhangsir.github.io/crs-compliance-kb/qa/decree-837-hk-insurance-filing.html): Decree 837 explicitly covers resident individuals but has no retroactive clause; existing policies need no supplementary filing ("存量安全，增量看细则").
+- [备案与CRS申报的区别 / Outbound filing vs CRS reporting](https://allen-zhangsir.github.io/crs-compliance-kb/qa/filing-vs-crs-reporting.html): Filing governs capital leaving China; CRS governs offshore account information exchange; neither exempts the other.
+
+## Reference
+
+- [术语表 / Glossary](https://allen-zhangsir.github.io/crs-compliance-kb/glossary.html): Canonical definitions of CRS, CARF, outbound investment filing, Decree 837, HK 2026 AEOI Bill.
+- [关于作者 / About the author](https://allen-zhangsir.github.io/crs-compliance-kb/about.html): Allen Zhang (张素俊Allen) — CRS compliance × asset allocation × insurance planning.
