@@ -4,7 +4,7 @@ title: "CRS合规与跨境资产配置知识库 · 张素俊Allen"
 description: "结构化问答：CRS信息交换、对外投资监管（837号令）、香港保单合规。Structured Q&A on CRS compliance, China outbound investment rules, and Hong Kong insurance, by Allen Zhang."
 lang: zh-CN
 author: "张素俊Allen"
-theme: jekyll-theme-minima
+theme: minima
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
