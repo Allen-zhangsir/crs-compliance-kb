@@ -15,8 +15,22 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Privacy marker scan (server-side gate)
+        run: |
+          if grep -rn --include="*.md" --include="*.txt" --exclude-dir=.github -E "【内部|仅张Sir|密级[:：]" .; then
+            echo "FAIL: internal-classification marker found in public content — publish blocked"
+            exit 1
+          fi
+          echo "OK: no internal markers found"
+
   build:
     runs-on: ubuntu-latest
+    needs: scan
     steps:
       - name: Checkout
         uses: actions/checkout@v4
