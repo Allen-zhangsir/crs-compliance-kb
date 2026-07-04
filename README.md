@@ -10,6 +10,7 @@
 |---|---|
 | [837号令生效后，存量香港保单需要补办对外投资备案吗？](qa/decree-837-hk-insurance-filing.md) | 不需要——无溯及条款；框架是"存量安全，增量看细则" |
 | [对外投资备案和 CRS 申报有什么区别？](qa/filing-vs-crs-reporting.md) | 备案管资金出境的门，CRS 管资产已在境外的门，互不豁免 |
+| [怎么判断香港分红保单靠不靠谱？](qa/hk-dividend-fulfilment-ratio-and-solvency.md) | 看分红实现率+偿付能力两个公开数字，双高且连续五年稳定才可靠；分红是非保证演示 |
 
 ## 术语表
 
