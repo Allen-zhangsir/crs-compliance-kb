@@ -1,0 +1,43 @@
+name: Mirror to GitCode
+
+# 把公开知识库自动镜像到国内 GitCode，覆盖国内 AI 引擎语料池（豆包/文心/DeepSeek 等）。
+# 设计：未配置时自动跳过（不报错），配置后每次推 main 自动镜像——零per-publish动作。
+# 启用方法（Allen 一次性）：
+#   1) 在 GitCode 建一个 public 仓库（建议同名 crs-compliance-kb）。
+#   2) GitCode 生成 access token（仅该仓库、内容读写）。
+#   3) 本 GitHub 仓库 Settings → Secrets and variables → Actions：
+#        - New repository secret: 名 GITCODE_TOKEN，值=token
+#        - New repository variable: 名 GITCODE_REPO，值=<gitcode用户名>/crs-compliance-kb
+#   下一次推送即自动镜像。
+# ⚠️ 铁律：本工作流只属于公开知识库仓库 crs-compliance-kb。私库 asset-allocation-risk-check
+#         永远不得配置任何 GitCode 远程或本工作流——私库含口径库/漏斗/客户数据。
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (full history)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Mirror to GitCode (skips cleanly if unconfigured)
+        env:
+          GITCODE_TOKEN: ${{ secrets.GITCODE_TOKEN }}
+          GITCODE_REPO: ${{ vars.GITCODE_REPO }}
+        run: |
+          if [ -z "$GITCODE_TOKEN" ] || [ -z "$GITCODE_REPO" ]; then
+            echo "GitCode 镜像未配置（需设置 secret GITCODE_TOKEN 与 variable GITCODE_REPO）。跳过——这不是错误。"
+            exit 0
+          fi
+          # GitCode 使用 HTTPS token 认证。若下方 URL 认证格式报 403，
+          # 按 GitCode 文档改为 https://<用户名>:<token>@ 形式（见 geo/GitCode双端注入方案.md 排错节）。
+          git push --force "https://oauth2:${GITCODE_TOKEN}@gitcode.com/${GITCODE_REPO}.git" HEAD:main
+          echo "已镜像到 GitCode: ${GITCODE_REPO}"
