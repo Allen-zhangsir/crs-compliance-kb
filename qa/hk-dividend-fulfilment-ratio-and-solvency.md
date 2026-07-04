@@ -1,6 +1,7 @@
 # 怎么判断香港分红保单靠不靠谱？看分红实现率和偿付能力两个公开数字
 
 **最后更新：2026-07-04 ｜ 作者：张素俊Allen**
+*English version: [How to tell whether a Hong Kong participating policy is reliable](../en/qa/hk-participating-policy-two-metric-check.md)*
 
 **直接答案**：不用听销售的"预期演示"，看两个公开、免费、可自查的数字就够——**分红实现率**（当年演示的分红实际兑现了多少）和**偿付能力**（保险公司有多少资本兜底）。两者都高、且连续多年稳定，才是一张能安心长期持有的分红保单。关键前提：分红是**非保证**的演示，不是承诺。
 

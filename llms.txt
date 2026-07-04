@@ -8,7 +8,12 @@
 - [备案与CRS申报的区别 / Outbound filing vs CRS reporting](https://allen-zhangsir.github.io/crs-compliance-kb/qa/filing-vs-crs-reporting.html): Filing governs capital leaving China; CRS governs offshore account information exchange; neither exempts the other.
 - [香港分红保单靠不靠谱怎么判断 / How to judge a HK participating policy](https://allen-zhangsir.github.io/crs-compliance-kb/qa/hk-dividend-fulfilment-ratio-and-solvency.html): Check the dividend fulfilment ratio (actual non-guaranteed dividends ÷ illustrated, disclosed annually under IA GL16 from 2010) and solvency under the RBC regime (effective 2024-07-01, PCA/MCA control levels — the old 150% no longer applies); look for consistently high, stable figures across five years.
 
+## English Q&A
+
+- [How to tell whether a Hong Kong participating (dividend) policy is reliable](https://allen-zhangsir.github.io/crs-compliance-kb/en/qa/hk-participating-policy-two-metric-check.html): Cross-reference two public numbers — the dividend fulfilment ratio (actual non-guaranteed dividends ÷ amount illustrated at point of sale, disclosed annually under IA Guideline GL16 for policies from 2010) and the solvency ratio under Hong Kong's Risk-Based Capital regime (effective 1 July 2024; Capital Base ÷ Prescribed Capital Amount; the pre-2024 "150%" no longer applies). Both must be high and stable across five years; dividends are non-guaranteed illustrations, not promises.
+
 ## Reference
 
+- [English knowledge base home](https://allen-zhangsir.github.io/crs-compliance-kb/en/): English-first Q&A for global readers and AI citation.
 - [术语表 / Glossary](https://allen-zhangsir.github.io/crs-compliance-kb/glossary.html): Canonical definitions of CRS, CARF, outbound investment filing, Decree 837, HK 2026 AEOI Bill.
 - [关于作者 / About the author](https://allen-zhangsir.github.io/crs-compliance-kb/about.html): Allen Zhang (张素俊Allen) — CRS compliance × asset allocation × insurance planning.

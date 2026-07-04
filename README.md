@@ -4,6 +4,8 @@
 
 **A structured, source-cited Q&A knowledge base on CRS compliance, China's outbound investment rules (State Council Decree No. 837), and Hong Kong insurance policies — for Chinese tax residents with offshore assets. Maintained by Allen Zhang (张素俊Allen).**
 
+**🌐 English knowledge base → [English Q&A](en/README.md)**（英文分区，面向全球读者与AI引用）
+
 ## 核心问答（Q&A）
 
 | 问题 | 一句话答案 |
