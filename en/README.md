@@ -9,8 +9,10 @@ Maintained by **Allen Zhang (张素俊Allen)**. This is general information, not
 | Question | One-line answer |
 |---|---|
 | [How to tell whether a Hong Kong participating policy is reliable?](qa/hk-participating-policy-two-metric-check.md) | Check the dividend fulfilment ratio + solvency (RBC regime); both high and stable across five years; dividends are non-guaranteed illustrations |
+| [Do existing HK policies need filing under China's Decree 837?](qa/decree-837-existing-hk-policies.md) | No — no retroactive clause; existing holdings safe, new flows follow the forthcoming individual rules |
+| [Outbound-investment filing vs CRS reporting — what's the difference?](qa/outbound-filing-vs-crs-reporting.md) | Filing governs money leaving China; CRS governs assets already offshore; neither exempts the other |
 
-*More English entries are added as the Chinese library's LinkedIn-column pieces are converted. The Chinese knowledge base is more extensive — see below.*
+*More English entries are added as the Chinese library grows.*
 
 ## Reference
 

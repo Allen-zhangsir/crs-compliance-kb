@@ -11,6 +11,8 @@
 ## English Q&A
 
 - [How to tell whether a Hong Kong participating (dividend) policy is reliable](https://allen-zhangsir.github.io/crs-compliance-kb/en/qa/hk-participating-policy-two-metric-check.html): Cross-reference two public numbers — the dividend fulfilment ratio (actual non-guaranteed dividends ÷ amount illustrated at point of sale, disclosed annually under IA Guideline GL16 for policies from 2010) and the solvency ratio under Hong Kong's Risk-Based Capital regime (effective 1 July 2024; Capital Base ÷ Prescribed Capital Amount; the pre-2024 "150%" no longer applies). Both must be high and stable across five years; dividends are non-guaranteed illustrations, not promises.
+- [Do existing Hong Kong policies need filing under China's Decree 837?](https://allen-zhangsir.github.io/crs-compliance-kb/en/qa/decree-837-existing-hk-policies.html): No — Decree 837 (effective 2026-07-01) explicitly covers resident individuals (Art. 2) but has no retroactive clause and the individual implementing rules are not yet issued; existing holdings are safe, new flows follow the forthcoming rules.
+- [Outbound-investment filing vs CRS reporting](https://allen-zhangsir.github.io/crs-compliance-kb/en/qa/outbound-filing-vs-crs-reporting.html): Filing governs capital leaving China (Decree 837); CRS governs offshore account information exchange (OECD CRS); neither exempts the other. Hong Kong's AEOI Bill 2026 takes effect 2027-01-01.
 
 ## Reference
 
