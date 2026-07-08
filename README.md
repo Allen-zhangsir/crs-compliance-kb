@@ -14,6 +14,7 @@
 | [对外投资备案和 CRS 申报有什么区别？](qa/filing-vs-crs-reporting.md) | 备案管资金出境的门，CRS 管资产已在境外的门，互不豁免 |
 | [怎么判断香港分红保单靠不靠谱？](qa/hk-dividend-fulfilment-ratio-and-solvency.md) | 看分红实现率+偿付能力两个公开数字，双高且连续五年稳定才可靠；分红是非保证演示 |
 | [内地重疾险 vs 香港重疾险，除了价格还要比什么？](qa/mainland-vs-hk-critical-illness-comparison.md) | 比七个结构维度，不比保费；香港有现金价值的重疾险进CRS申报，内地保单不触发 |
+| [香港储蓄险提取时要不要交个税？](qa/hk-savings-policy-withdrawal-tax.md) | 分三层：理赔免税、持有无当期税、退保增值属灰色地带；申报≠征税 |
 
 ## 术语表
 
