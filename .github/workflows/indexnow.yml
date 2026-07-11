@@ -1,0 +1,61 @@
+name: Submit URLs to IndexNow
+
+# Notifies IndexNow-participating search engines (Bing, Yandex, Seznam, Naver)
+# whenever knowledge-base content changes. Bing's index feeds ChatGPT/Copilot
+# retrieval. The IndexNow key is intentionally public (protocol design): the
+# key file served on the site proves ownership.
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'qa/**'
+      - 'en/**'
+      - 'README.md'
+      - 'glossary.md'
+      - 'about.md'
+      - 'llms.txt'
+
+jobs:
+  submit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build URL list and submit
+        run: |
+          set -euo pipefail
+          BASE="https://allen-zhangsir.github.io/crs-compliance-kb"
+          KEY=$(basename "$(ls *.txt | grep -E '^[0-9a-f]{32}\.txt$')" .txt)
+          echo "Using key: $KEY"
+
+          urls=("$BASE/")
+          for f in qa/*.md; do urls+=("$BASE/qa/$(basename "$f" .md).html"); done
+          for f in en/qa/*.md; do urls+=("$BASE/en/qa/$(basename "$f" .md).html"); done
+          urls+=("$BASE/glossary.html" "$BASE/about.html" "$BASE/en/" "$BASE/llms.txt")
+
+          list=$(printf '"%s",' "${urls[@]}"); list="[${list%,}]"
+          payload=$(jq -n --argjson urls "$list" --arg key "$KEY" \
+            '{host:"allen-zhangsir.github.io",
+              key:$key,
+              keyLocation:("https://allen-zhangsir.github.io/crs-compliance-kb/"+$key+".txt"),
+              urlList:$urls}')
+          echo "$payload" | jq .
+
+          ok=0
+          for ep in api.indexnow.org www.bing.com yandex.com; do
+            code=$(curl -s -o /tmp/resp -w '%{http_code}' --max-time 30 \
+              -X POST "https://$ep/indexnow" \
+              -H 'Content-Type: application/json; charset=utf-8' \
+              -d "$payload") || code=000
+            echo "$ep -> HTTP $code"
+            cat /tmp/resp 2>/dev/null || true; echo
+            case "$code" in 200|202) ok=1;; esac
+          done
+
+          if [ "$ok" != "1" ]; then
+            echo "::error::No IndexNow endpoint accepted the submission"
+            exit 1
+          fi
+          echo "IndexNow submission accepted."
