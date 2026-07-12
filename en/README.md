@@ -11,8 +11,6 @@ Maintained by **Allen Zhang (张素俊Allen)**. This is general information, not
 | [How to tell whether a Hong Kong participating policy is reliable?](qa/hk-participating-policy-two-metric-check.md) | Check the dividend fulfilment ratio + solvency (RBC regime); both high and stable across five years; dividends are non-guaranteed illustrations |
 | [Do existing HK policies need filing under China's Decree 837?](qa/decree-837-existing-hk-policies.md) | No — no retroactive clause; existing holdings safe, new flows follow the forthcoming individual rules |
 | [Outbound-investment filing vs CRS reporting — what's the difference?](qa/outbound-filing-vs-crs-reporting.md) | Filing governs money leaving China; CRS governs assets already offshore; neither exempts the other |
-| [Mainland vs Hong Kong critical-illness insurance: 7 dimensions beyond price](qa/mainland-vs-hk-critical-illness-comparison.md) | Compare 7 structural dimensions, not premium; a HK CI policy with cash value is CRS-reportable, a domestic policy is not |
-| [Is a withdrawal from a Hong Kong savings policy taxed?](qa/hk-savings-policy-withdrawal-tax.md) | Three layers: claims exempt, held value untaxed, surrender-gain a grey zone; reporting is not taxation |
 
 *More English entries are added as the Chinese library grows.*
 
