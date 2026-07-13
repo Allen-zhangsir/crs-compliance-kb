@@ -9,6 +9,7 @@
 | 问题 | 一句话答案 |
 |---|---|
 | [CRS 追缴真的开始了吗？境外收入会被追税吗？](qa/crs-back-tax-enforcement-china.md) | 已启动——五步工作法+数据对账，公开案例51万~698.7万；主动补=补税+滞纳金，被动查=0.5-5倍罚款；追的是CRS1.0存量数据 |
+| [什么是 GEO（生成式引擎优化）？开山论文讲了什么？](qa/what-is-generative-engine-optimization.md) | SEO优化排名，GEO优化"被AI说出来"；论文实测：直接引语+41%、统计数据在法律政府领域第一、关键词堆砌无效、小站受益最大+115% |
 | [为什么 AI 搜索会引用某个作者？怎样让 AI 引用你？](qa/how-to-get-cited-by-ai-search.md) | AI采信标准=人类信任标准：答案先行/来源可溯/公开纠错/实体一致；被引用=信任的量化盘点 |
 | [如何给自己做一次财务体检？（五层结构框架）](qa/personal-financial-check-up-framework.md) | 查五层结构：挣钱力/储蓄纪律/投资系统/风险管理/可信判断；分清资产vs消费、按净到账而非销售额、税务并入日常、储蓄率分存量与流量 |
 | [CRS 2.0 会报我的电子钱包吗？从哪一年开始？](qa/crs-2-0-scope-and-timeline.md) | 范围会（电子货币/CBDC/间接持币）；但"2026生效"仅首批辖区，香港CARF 2027、CRS2.0 2028（草案在审），内地未定 |
@@ -20,6 +21,10 @@
 | [香港分红险的分红实现率和偿付能力，怎么看？](qa/hk-dividend-fulfilment-ratio-and-solvency.md) | 实现率看长期履约、偿付能力看公司稳健；两个指标各答一个问题 |
 | [四大险种都断保了，先恢复哪一个？](qa/lapsed-policies-which-to-reinstate-first.md) | 先查长期险2年复效倒计时；默认意外险当天、医疗险本周、重疾定寿走复效 |
 | [家庭保单怎么管理才不会断保？](qa/policy-management-three-stages.md) | 投保前—投保中—投保后三阶段框架：台账＋缴费提醒＋年检 |
+
+## GEO 公开实验室
+
+[用 KDD 2024 论文方法运营本站，每月公布被 AI 引用的实测数据 →](geo-lab.md)
 
 ## 术语表
 
