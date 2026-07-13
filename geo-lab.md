@@ -19,7 +19,7 @@
 
 | # | 日期 | 引擎 | 结果 | 说明 |
 |---|---|---|---|---|
-| 001 | 2026-07-12 | 微信AI搜索 | 🏆 引用并署名 | 文章发布约 **3 小时**后，被列为 5 篇参考资料**第 1 位**（带作者署名），原创概念"六四开"被采纳为回答的结论框架。证据截图已归档。待改进：署名尚未进入回答正文。 |
+| 001 | 2026-07-12 | 微信AI搜索 | 🏆 引用并署名 | 文章发布约 **3 小时**后，被列为 5 篇参考资料**第 1 位**（带作者署名），原创概念"六四开"被采纳为回答的结论框架。证据截图已归档。待改进：署名尚未进入回答正文。**[→ 完整实验报告 001](geo-lab-report-001.md)** |
 
 *（每月 1 日更新；下次更新：2026-08-01）*
 
@@ -34,4 +34,4 @@ A public, verifiable GEO experiment: this site applies the methods empirically v
 ---
 
 *本页为实验记录，不构成任何投资、法律或税务建议。*
-*作者：张素俊Allen ｜ [关于作者](about.md) ｜ [什么是GEO](qa/what-is-generative-engine-optimization.md)*
+*作者：张素俊Allen ｜ [关于作者](about.md) ｜ [什么是GEO](qa/what-is-generative-engine-optimization.md) ｜ [论文中译全文](geo-paper-kdd2024-zh.md)*

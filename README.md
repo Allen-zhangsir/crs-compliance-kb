@@ -26,6 +26,8 @@
 
 [用 KDD 2024 论文方法运营本站，每月公布被 AI 引用的实测数据 →](geo-lab.md)
 
+[实验报告001：AI为什么三小时就引用了我 →](geo-lab-report-001.md) ｜ [GEO开山论文中译全文（CC BY 4.0）→](geo-paper-kdd2024-zh.md)
+
 ## 术语表
 
 [CRS ／ CARF ／ 对外投资备案 ／ 837号令 ／ 香港2026条例 ／ 存量安全，增量看细则 →](glossary.md)
