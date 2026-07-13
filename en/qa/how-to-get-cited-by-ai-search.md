@@ -37,10 +37,15 @@ A2: Structure decides whether an AI *can conveniently use* you; substance decide
 **Q3: Does one citation mean authority is established?**
 A3: No. A single citation is a signal, not a moat. Sustained citations across months, engines and questions constitute the trust asset — keep a monitoring ledger rather than concluding from one screenshot.
 
+## Academic evidence
+
+The foundational GEO paper (Aggarwal et al., *GEO: Generative Engine Optimization*, KDD 2024) tested optimisation methods on a 10,000-query benchmark and on the deployed engine Perplexity.ai: **adding direct quotations from credible sources raised content visibility in generative-engine answers by up to 41%**, with statistics addition and source citation close behind (statistics ranked first in the "law & government" domain) — while keyword stuffing was ineffective or negative, and an "authoritative tone" alone produced no significant gain. A further key finding: **low-ranked sites benefit most** (up to +115% visibility for a rank-5 source), because generative engines select sources on content quality rather than domain authority — making verifiable content an asymmetric advantage for small creators.
+
 ## Sources & boundaries
 
+- Aggarwal, Murahari, Rajpurohit, Kalyan, Narasimhan & Deshpande, "GEO: Generative Engine Optimization", *KDD 2024*, DOI: 10.1145/3637528.3671900 (arXiv:2311.09735) — the primary academic source for this entry's methodology.
 - Documented case: WeChat AI search answer of 2026-07-12 22:54; entry #001 in the author's citation-monitoring ledger, screenshot archived. A single instance, offered as reference, not statistics.
-- Statements about AI sourcing behaviour reflect the publicly understood engineering consensus of retrieval-augmented generation (hallucination-averse, conservative sourcing); they are mechanism-level generalisations, not claims about any specific product's algorithm.
+- Statements about AI sourcing behaviour reflect the paper's empirical findings and the engineering consensus of retrieval-augmented generation; they are not claims about any specific product's algorithm.
 - This entry makes no regulatory or tax-fact assertions.
 
 ---

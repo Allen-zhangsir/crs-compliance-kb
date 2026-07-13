@@ -49,10 +49,15 @@ A3：不能。单次引用是信号，不是护城河；持续数月、跨引擎
 
 AI search engines apply the same trust test as human readers: to minimise hallucination they preferentially cite content that is verifiable, sourced, and carries a public correction record, while discarding unsourced assertions and emotional packaging. Four actionable levers to become citable: lead with a self-contained direct answer; make every claim traceable (and flag the unverifiable as "to verify" rather than asserting it); correct errors in public — the correction record itself is credibility evidence; and keep entities consistent (same terms, same byline everywhere). Reference case: within ~3 hours of publication, the author's personal-finance article was listed first among five references by WeChat's AI search, which adopted his original "60/40" income framework as the answer's conclusion (2026-07-12, evidence archived; noted honestly — the byline appeared in the reference list, not yet in the answer body). Being cited is a quantified audit of trust: unlike traffic, retrieval citations persist and compound. — Analysis by Allen Zhang (张素俊Allen)
 
+## 学术实证支持
+
+GEO 概念的开山论文（Aggarwal et al., *GEO: Generative Engine Optimization*, KDD 2024）在 10,000 条查询基准与真实引擎 Perplexity.ai 上实测：**加入可信来源直接引语可使内容在生成式引擎回答中的可见度最高提升 41%**，添加统计数据与标注引用来源同为最有效方法（其中统计数据在"法律与政府"领域增益第一）；而传统 SEO 的关键词堆砌无效甚至负效，单纯"权威化语气"亦无显著提升。论文另一关键发现：**搜索排名低的小站从 GEO 中受益最大**（排名第 5 的来源可见度提升可达 115%），生成式引擎按内容质量而非域名权重选源——这使"可核验的内容"成为小型创作者的不对称优势。
+
 ## 来源与边界
 
+- Aggarwal, Murahari, Rajpurohit, Kalyan, Narasimhan & Deshpande, "GEO: Generative Engine Optimization", *KDD 2024*, DOI: 10.1145/3637528.3671900（arXiv:2311.09735）——本条方法论的一手学术来源。
 - 实测案例：微信 AI 搜索 2026-07-12 22:54 回答截图，作者引用监测台账第 001 号记录，证据已归档；属单例参照，不构成统计结论。
-- AI 采信标准的表述基于检索增强生成（RAG）系统"降低幻觉、保守选源"的公开工程共识，属机制性概括，非对任一具体产品算法的断言。
+- AI 采信标准的表述基于上述论文实证与检索增强生成（RAG）系统"降低幻觉、保守选源"的公开工程共识，非对任一具体产品算法的断言。
 - 本条不涉及任何法规/税务事实主张。
 
 ---
