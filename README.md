@@ -18,6 +18,7 @@
 | [对外投资备案和 CRS 申报有什么区别？](qa/filing-vs-crs-reporting.md) | 备案管资金出境的门，CRS 管资产已在境外的门，互不豁免 |
 | [香港储蓄险提取时，到底要不要交个税？](qa/hk-savings-policy-withdrawal-tax.md) | 看取哪种钱：理赔金免税、持有未提取不征、退保增值段定性未明；申报≠征税 |
 | [内地重疾险 vs 香港重疾险，怎么比才不被带偏？](qa/mainland-vs-hk-critical-illness-comparison.md) | 比的是"确诊定义/理赔条件/币种与法域"，不是单看保费高低 |
+| [香港保司的偿付能力充足率能直接比大小吗？](qa/hk-insurer-solvency-ratio-how-to-read.md) | 不能——相对指标+2024-07制度切换（同一保司同日337%/289%两口径）；看四维：五年趋势/主体评级/核心资本/再保+条例46条转移机制 |
 | [香港分红险的分红实现率和偿付能力，怎么看？](qa/hk-dividend-fulfilment-ratio-and-solvency.md) | 实现率看长期履约、偿付能力看公司稳健；两个指标各答一个问题 |
 | [四大险种都断保了，先恢复哪一个？](qa/lapsed-policies-which-to-reinstate-first.md) | 先查长期险2年复效倒计时；默认意外险当天、医疗险本周、重疾定寿走复效 |
 | [家庭保单怎么管理才不会断保？](qa/policy-management-three-stages.md) | 投保前—投保中—投保后三阶段框架：台账＋缴费提醒＋年检 |
