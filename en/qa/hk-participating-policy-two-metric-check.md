@@ -41,6 +41,11 @@ The practical point: don't chase a single "magic number." Look for a solvency po
 
 A caveat: a very high solvency ratio is not unambiguously better — it can reflect under-utilised capital, which may weigh on long-term return competitiveness. Treat it as a stability indicator, not a "bigger-is-better" score.
 
+
+## How do the two metrics cross-read? (Four quadrants)
+
+They are linked, not independent: non-guaranteed dividends are the insurer's pressure valve — when the capital cushion tightens, dividends are typically trimmed first. Cross-reading therefore carries more information than either metric alone: high/high is the ideal; high fulfilment with a weakening cushion demands the question whether the payout is borrowing from the balance sheet (check the five-year solvency trend); a thick cushion with modest fulfilment signals a conservative payer; weak/weak calls for independent advice rather than panic surrender. Solvency ratios are relative — use the four-dimension test (five-year trend, entity-level ratings, core-capital share, reinsurance) instead of any universal threshold, and judge fulfilment by long-run stability across the whole product series.
+
 ## FAQ
 
 **Q1: Does a 100% fulfilment ratio guarantee I will receive these dividends in future?**
