@@ -1,0 +1,7 @@
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://allen-zhangsir.github.io/crs-compliance-kb/sitemap.xml
