@@ -29,9 +29,15 @@
 
 ## GEO 公开实验室
 
-[用 KDD 2024 论文方法运营本站，每月公布被 AI 引用的实测数据 →](geo-lab.md)
+[公开记录本站在搜索与生成式引擎中的召回、链接、署名与复测结果 →](geo-lab.md)
 
-[实验报告001：AI为什么三小时就引用了我 →](geo-lab-report-001.md) ｜ [GEO开山论文中译全文（CC BY 4.0）→](geo-paper-kdd2024-zh.md)
+[实验方法与固定题库 →](geo-methodology.md) ｜ [实验报告001：一次AI引用事件的证据与边界 →](geo-lab-report-001.md) ｜ [GEO开山论文中译全文（CC BY 4.0）→](geo-paper-kdd2024-zh.md)
+
+## 可信治理与公开工具
+
+- [知识库方法论与发布闸门：信源层级、事实分层、人机责任和隐私边界 →](methodology.md)
+- [境外资产信息准备度自查：只识别资料缺口，不收集个人数据、不作个案诊断 →](readiness-check.md)
+- [纠错与版本记录：公开重要修订及原因 →](corrections.md)
 
 ## 术语表
 
