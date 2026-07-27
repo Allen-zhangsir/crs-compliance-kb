@@ -8,6 +8,7 @@ Maintained by **Allen Zhang (张素俊Allen)**. This is general information, not
 
 | Question | One-line answer |
 |---|---|
+| [How do China's 2026 offshore-trust IIT rules work?](qa/china-offshore-trust-iit-rules-2026.md) | Resident funding triggers 20% tax on accrued gain; resident-funded trust income is taxed annually even if undistributed; specified history gets a 90-day no-surcharge window |
 | [How to tell whether a Hong Kong participating policy is reliable?](qa/hk-participating-policy-two-metric-check.md) | Check the dividend fulfilment ratio + solvency (RBC regime); both high and stable across five years; dividends are non-guaranteed illustrations |
 | [After RMB 13 billion in additional tax, what does CRS report about a Hong Kong cash-value policy?](qa/hong-kong-policy-crs-reporting-130-billion.md) | The RMB 13bn figure is not solely attributable to CRS; a qualifying policy may already be reportable, while reported value is not automatically taxable income |
 | [Do existing HK policies need filing under China's Decree 837?](qa/decree-837-existing-hk-policies.md) | No — no retroactive clause; existing holdings safe, new flows follow the forthcoming individual rules |
