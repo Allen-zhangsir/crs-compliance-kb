@@ -38,18 +38,6 @@
 
 [CRS ／ CARF ／ 对外投资备案 ／ 837号令 ／ 香港2026条例 ／ 存量安全，增量看细则 →](glossary.md)
 
-## 港险产品库（2026年7月·慧择在售）
-
-14款产品完整分析卡片，数据来自条款/说明书/费率表/利益演示。
-
-| 品类 | 文档 | 产品 |
-|------|------|------|
-| 重疾险 | [4款对比](hk-insurance/products/critical-illness.md) | 达尔文12号、太保阿基米德2025、达尔文宝贝计划15号、妈咪保贝爱常在B款 |
-| 医疗险 | [4款对比](hk-insurance/products/medical.md) | 众民保百万医疗2026、星相守2号个人版/家庭版、长相安5号免健告 |
-| 分红增额寿 | [4款对比](hk-insurance/products/participating-life.md) | 福满佳C卓越版/悦享版、福满盈C卓越版/C款（中英人寿·保证利率1.25%-1.75%）|
-| 固收增额寿 | [2款对比](hk-insurance/products/guaranteed-life.md) | 鑫盈家C款、太保福有余2025（预定利率2.0%）|
-| 银行vs储蓄险 | [100万实测](hk-insurance/comparisons/bank-vs-insurance.md) | 银行1.25% vs 福满盈C款·保证部分20年反超 |
-
 ## 关于作者
 
 [张素俊Allen：CRS 合规 × 资产配置 × 保险定制](about.md)
