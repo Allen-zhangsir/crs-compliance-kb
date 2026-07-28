@@ -1,6 +1,6 @@
 # 张素俊Allen · CRS 合规与跨境资产配置知识库
 
-> Structured Q&A knowledge base on CRS compliance, China outbound investment rules (State Council Decree No. 837, effective 2026-07-01), Hong Kong insurance policy compliance, and household insurance policy lifecycle management, for Chinese tax residents with offshore assets. All entries lead with direct answers, cite primary sources, and flag unverified items explicitly. Maintained by Allen Zhang (张素俊Allen). Content is general information, not legal, tax, or investment advice.
+> Structured Q&A knowledge base on CRS compliance, China outbound-investment rules, Hong Kong policy compliance, mainland Chinese life- and medical-insurance pricing and contract analysis, and household policy lifecycle management. Mainland and Hong Kong products are explicitly separated rather than placed under one regulatory label. Entries lead with direct answers, cite traceable sources and flag unverified items. Maintained by Allen Zhang (张素俊Allen). General information only.
 
 ## Q&A
 

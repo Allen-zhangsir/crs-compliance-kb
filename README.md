@@ -1,6 +1,6 @@
 # CRS 合规与跨境资产配置知识库 ｜ by 张素俊Allen
 
-面向持有境外资产的中国税务居民的**结构化问答知识库**，覆盖 CRS 信息交换、对外投资监管（837号令）、香港保单合规、家庭保单全生命周期管理四大主题。所有条目结论先行、来源可溯、持续更新；未核实到一手原文的信息一律标注 [待核实]，不写成既成事实。
+面向持有境外资产、内地或香港保单的中国读者的**结构化问答知识库**，覆盖 CRS 信息交换、对外投资监管（837号令）、香港保单合规、内地人身险与医疗险的定价及条款审计、家庭保单全生命周期管理五大主题。内地产品与香港保险分区处理，不混用监管或产品口径；所有条目结论先行、来源可溯、持续更新，未核实到一手原文的信息一律标注 [待核实]，不写成既成事实。
 
 **A structured, source-cited Q&A knowledge base on CRS compliance, China's outbound investment rules (State Council Decree No. 837), and Hong Kong insurance policies — for Chinese tax residents with offshore assets. Maintained by Allen Zhang (张素俊Allen).**
 
