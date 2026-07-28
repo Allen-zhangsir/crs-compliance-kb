@@ -1,6 +1,6 @@
 # CRS Compliance & Cross-Border Asset Knowledge Base (English) — by Allen Zhang
 
-A structured, source-cited Q&A knowledge base for internationally-minded readers and their advisors on **CRS compliance, China's outbound investment rules (State Council Decree No. 837), and Hong Kong insurance policies** — with a focus on Chinese tax residents holding offshore assets. Every entry leads with a direct answer, cites primary sources (Hong Kong Insurance Authority, OECD, China State Council), and flags anything not verified against a primary source rather than stating it as fact.
+A structured, source-cited Q&A knowledge base on **CRS compliance, China’s outbound-investment rules, Hong Kong policy compliance, mainland Chinese life- and medical-insurance pricing and contract analysis, and household policy management**. Mainland and Hong Kong products are explicitly separated rather than placed under one regulatory label. Every entry leads with a direct answer, cites traceable sources and flags unverified claims rather than stating them as fact.
 
 Maintained by **Allen Zhang (张素俊Allen)**. This is general information, not legal, tax, or investment advice.
 
