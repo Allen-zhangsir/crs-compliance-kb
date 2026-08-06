@@ -1,6 +1,6 @@
 # CRS 合规与跨境资产配置知识库 ｜ by 张素俊Allen
 
-面向持有境外资产、内地或香港保单的中国读者的**结构化问答知识库**，覆盖 CRS 信息交换、对外投资监管（837号令）、香港保单合规、内地人身险与医疗险的定价及条款审计、家庭保单全生命周期管理五大主题。内地产品与香港保险分区处理，不混用监管或产品口径；所有条目结论先行、来源可溯、持续更新，未核实到一手原文的信息一律标注 [待核实]，不写成既成事实。
+面向持有境外资产的中国税务居民的**结构化问答知识库**，覆盖 CRS 信息交换、对外投资监管（837号令）、香港保单合规、家庭保单全生命周期管理四大主题。所有条目结论先行、来源可溯、持续更新；未核实到一手原文的信息一律标注 [待核实]，不写成既成事实。
 
 **A structured, source-cited Q&A knowledge base on CRS compliance, China's outbound investment rules (State Council Decree No. 837), and Hong Kong insurance policies — for Chinese tax residents with offshore assets. Maintained by Allen Zhang (张素俊Allen).**
 
@@ -8,14 +8,7 @@
 
 | 问题 | 一句话答案 |
 |---|---|
-| [1.94%预定利率研究值是否意味着储蓄险收益率又降了？](qa/china-life-insurance-research-rate-1-94-2026.md) | 不意味着：1.94%是行业定价参考，且高于前两期1.93%与1.89%；不是保单收益率或新上限，需分开核对预定利率/保额递增/现金价值IRR/非保证红利 |
-| [分红型与保证型终身寿险应该怎样比较？](qa/participating-vs-guaranteed-whole-life-china.md) | 不能只比1.75%与2.00%；先按同一退出年度比较保证现金流、红利为零/较低/演示情景、流动性，再决定目标能承受多少不确定性 |
-| [终身寿险示范条款2026修订会改变旧保单吗？](qa/china-whole-life-model-clauses-2026-draft.md) | 不会自动改变：截至2026-07-28可核验文件仍是征求意见稿；旧合同变更需回到原保单及双方书面批单/协议 |
-| [上海国际再保险中心会让个人保费下降吗？](qa/shanghai-international-reinsurance-center-insurance-pricing.md) | 不会直线传导；再保险先改变承保容量、资本和波动，零售价格仍取决于赔付/费用/资本/再保净成本/竞争 |
-| [长相安5号的免健告、0免赔、高危结节可赔怎样读？](qa/chang-xiang-an-5-medical-insurance-contract-review.md) | 一年期且不保证续保；免健告≠既往症全赔，0免赔≠全额报；高危结节另有90天等待期/3万免赔/30%/1万元年限额 |
-| [2026年离岸信托个税新规怎么处理？](qa/china-offshore-trust-iit-rules-2026.md) | 信托未被废；居民装入按增值额20%纳税、存续收益不分配也按年归属；非居民出资看居民受益人的实际或视同分配；特定历史事项有90天无滞纳金窗口 |
 | [CRS 追缴真的开始了吗？境外收入会被追税吗？](qa/crs-back-tax-enforcement-china.md) | 已启动——五步工作法+数据对账，公开案例51万~698.7万；主动补=补税+滞纳金，被动查=0.5-5倍罚款；追的是CRS1.0存量数据 |
-| [130亿元补税之后：香港现金价值保单在CRS下究竟报告什么？](qa/hong-kong-policy-crs-reporting-130-billion.md) | 130亿元是境外收入纳税人补缴总额、不能全部归因CRS；可报告现金价值不等于同额应税，香港CARF拟2027、经修订CRS拟2028 |
 | [什么是 GEO（生成式引擎优化）？开山论文讲了什么？](qa/what-is-generative-engine-optimization.md) | SEO优化排名，GEO优化"被AI说出来"；论文实测：直接引语+41%、统计数据在法律政府领域第一、关键词堆砌无效、小站受益最大+115% |
 | [为什么 AI 搜索会引用某个作者？怎样让 AI 引用你？](qa/how-to-get-cited-by-ai-search.md) | AI采信标准=人类信任标准：答案先行/来源可溯/公开纠错/实体一致；被引用=信任的量化盘点 |
 | [如何给自己做一次财务体检？（五层结构框架）](qa/personal-financial-check-up-framework.md) | 查五层结构：挣钱力/储蓄纪律/投资系统/风险管理/可信判断；分清资产vs消费、按净到账而非销售额、税务并入日常、储蓄率分存量与流量 |
@@ -24,6 +17,7 @@
 | [在 CRS 自我证明表上填了虚假税务居民身份，香港会判监禁吗？](qa/crs-false-self-certification-penalty.md) | 不会——虚假自我证明＝IRO 80(2E)第3级罚款1万港元、无监禁；6个月/5万属80B–80F逃税罪，被误传张冠李戴 |
 | [837号令生效后，存量香港保单需要补办对外投资备案吗？](qa/decree-837-hk-insurance-filing.md) | 不需要——无溯及条款；框架是"存量安全，增量看细则" |
 | [对外投资备案和 CRS 申报有什么区别？](qa/filing-vs-crs-reporting.md) | 备案管资金出境的门，CRS 管资产已在境外的门，互不豁免 |
+| [香港保单收益要交20%个税吗？（2026年8月最新）](qa/hk-policy-dividend-tax-2026.md) | 分四笔钱、三个层次：理赔金法条层法定免税；分红/退保增值段法理层未定＋执行层个案在征（财新2026-08-05：京杭个案20%、"尚不具普遍性"）；预缴利息依据最扎实——三层错位是"免税"与"在征"同时为真的原因 |
 | [香港储蓄险提取时，到底要不要交个税？](qa/hk-savings-policy-withdrawal-tax.md) | 看取哪种钱：理赔金免税、持有未提取不征、退保增值段定性未明；申报≠征税 |
 | [内地重疾险 vs 香港重疾险，怎么比才不被带偏？](qa/mainland-vs-hk-critical-illness-comparison.md) | 比的是"确诊定义/理赔条件/币种与法域"，不是单看保费高低 |
 | [香港保司的偿付能力充足率能直接比大小吗？](qa/hk-insurer-solvency-ratio-how-to-read.md) | 不能——相对指标+2024-07制度切换（同一保司同日337%/289%两口径）；看四维：五年趋势/主体评级/核心资本/再保+条例46条转移机制 |
