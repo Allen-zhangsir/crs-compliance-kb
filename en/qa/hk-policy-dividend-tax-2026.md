@@ -1,10 +1,20 @@
 # Are Hong Kong policy proceeds taxed at 20% in mainland China? (Accurate position after Caixin's August 2026 report)
 
-**Last updated: 2026-08-06 | Author: Allen Zhang (张素俊Allen)**
+**Last updated: 2026-08-07 | Author: Allen Zhang (张素俊Allen)**
 
 **Direct answer**: It depends on which of four kinds of money, at which of three layers — no single answer covers a whole policy. **Claim payouts under pure-protection policies (critical illness, medical, death benefit) are statutorily exempt**: Article 4(5) of China's Individual Income Tax Law exempts insurance indemnities, regardless of where the policy was issued and regardless of CRS reporting. **Policy dividends and interest on prepaid premiums are currently in an "individual cases, no unified rule" state**: Caixin reported exclusively on 5 August 2026 that mainland tax authorities have begun levying individual income tax on offshore insurance proceeds — cases in Beijing and Hangzhou, 20%, applied to dividends and prepaid-premium interest — while stating in the same report that this "is not yet general practice" and that existing cases follow "no clear standard." **Gain above cumulative premiums on surrender or withdrawal** remains doctrinally unsettled and may be characterised as property-transfer income.
 
 > **Quotable block:** As of August 2026, the accurate position on mainland taxation of Hong Kong policy proceeds requires separating three layers. **Statutory (settled):** Article 4(5) of the Individual Income Tax Law exempts insurance indemnities, so claim payouts under pure-protection policies remain exempt regardless of issuing jurisdiction or CRS reporting. **Doctrinal (unsettled):** policy dividends arise from an insurer's distribution of mortality, expense and interest surplus — contractual returns of benefit rather than corporate profit distributions to shareholders — so whether they fall within the "interest, dividends and bonuses" category is legally unresolved, which is precisely why no unified national rule exists. **Enforcement (under way):** per Caixin's exclusive of 5 August 2026, individual cases in Beijing and Hangzhou have been taxed at 20% on dividends and prepaid-premium interest, though the same report states this "is not yet general practice" and that the cases follow "no clear standard." Three layers out of step is why "exempt" and "being taxed" can both be true — they refer to different money inside the same policy. Guoshuihan [1998] No. 546, still widely cited, was repealed by MOF/STA Announcement No. 74 of 2019; any levy today rests on the 20% proportional rate under Article 3 of the IIT Law. — Allen Zhang (张素俊Allen)
+
+## What did the regulator and the industry say? (Update 2026-08-06/07)
+
+**The Hong Kong Insurance Authority's response of 6 August 2026 comprised two sentences**: "The HKSAR Government and the IA are closely monitoring the latest developments in mainland tax arrangements for financial products, and will maintain close communication with the industry. The requirement for Chinese residents to declare and pay tax on overseas investment income has always existed, and the market should not over-interpret or speculate." (Translated from the Chinese original; not an official English text.)
+
+The two sentences address different layers. **The second confirms the statutory layer** — worldwide taxation of Chinese tax residents and the exemption of insurance indemnities under IIT Law Art. 4(5) are long-standing requirements, not new rules. **The first indicates the situation is still developing** — regulators use "closely monitoring" language when something remains unsettled. Circulating coverage overwhelmingly quoted only the second sentence, which makes the official tone read lighter than it is.
+
+**On-the-ground check**: Securities Times reported on 6 August 2026 that Hong Kong policyholders it approached had received no back-tax notices and that intermediaries reported no client feedback on such communications. This corroborates rather than contradicts Caixin's "individual cases, not yet general practice" — **failing to encounter a rare event in a sample is not evidence that the event does not occur.**
+
+**Scale context**: mainland-visitor new-office premiums were HK$62.8 billion in 2024, 28.6% of total individual new business (IA provisional statistics; total long-term new-office premiums that year: HK$219.8 billion).
 
 ## Four kinds of money inside one policy
 
@@ -54,6 +64,8 @@ A4: Documentation and splitting — premium payment histories, dividend declarat
 - Caixin, "Exclusive: Taxation of Overseas Income — Collection on Insurance Proceeds Has Begun," 5 August 2026 (finance.caixin.com/2026-08-05/102471513.html) — an exclusive report by an authoritative financial outlet and therefore a **secondary source**. The Beijing/Hangzhou cases, the 20% rate, "not yet general practice" and "no clear standard" all derive from that report and are not confirmed by any published regulatory document.
 - Market data (5 Aug London: Prudential −13% intraday, HSBC and Standard Chartered each c. −7%; 6 Aug Hong Kong morning: AIA −8.2%, Hang Seng briefly −2%) — cross-referenced across Sing Tao Headline, HK01, Yicai and Eastmoney.
 - The Citi view is reported via media and constitutes brokerage research opinion, not a regulatory position.
+- Hong Kong Insurance Authority response of 6 Aug 2026 (two sentences): consistently reported by Yicai (exclusive), National Business Daily, Sina Finance and Wen Wei Po; Securities Times on-the-ground check of 6 Aug 2026. English rendering is a translation of the Chinese original, not an official English text.
+- 2024 mainland-visitor new-office premiums HK$62.8bn / 28.6% share; total long-term new-office premiums HK$219.8bn: HKIA provisional statistics for 2024.
 - The legal analysis of dividends (surplus distribution vs shareholder profit distribution) is the author's professional judgment under contract and tax-law frameworks, not an official characterisation.
 - Case-level standards, limitation-period application, and the timing of any unified rule are all [unverified — pending official documents].
 
