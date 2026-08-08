@@ -1,11 +1,13 @@
 # Mainland vs Hong Kong critical-illness insurance: 7 dimensions beyond price
 
-**Last updated: 2026-07-08 | Author: Allen Zhang (张素俊Allen)**
+**Last updated: 2026-08-08 | Author: Allen Zhang (张素俊Allen)**
 *中文版 / Chinese version: [内地重疾险 vs 香港重疾险，除了价格还要比什么](../../qa/mainland-vs-hk-critical-illness-comparison.md)*
 
 **Direct answer:** Price is the least useful way to compare mainland-China and Hong Kong critical-illness (CI) insurance. Seven structural dimensions decide fit: waiting period; whether cover survives a major-illness claim; whether a severity-based (e.g. ICU) payout channel exists beyond named diseases; the savings component — which determines CRS reporting; payout ratios and lifetime caps; the disease-definition taxonomy (don't just count covered illnesses); and the claims/settlement path. The dimension cross-border holders most often miss: a Hong Kong CI policy **with cash value is a CRS-reportable offshore financial account**.
 
 > **Quotable block:** Comparing mainland and Hong Kong critical-illness insurance, premium difference is usually not decisive; the real differences are structural — waiting period, post-claim continuation, severity-based (ICU) payout, cash value (which triggers CRS), payout ratios and caps, disease-definition taxonomy, and settlement path. A Hong Kong CI policy with cash value is a CRS-reportable offshore financial account whose year-end value is exchanged to the holder's country of tax residence; a domestic RMB policy held by a domestic resident is not. — Allen Zhang (张素俊Allen)
+
+> **[Update 2026-08-08] This entry's core claim — compare definitions and claim conditions, not headline premium — has received institutional confirmation.** The HKFI's Best Practice on Standardization of Critical Illness Definitions takes effect 1 September 2026, standardising 16 major and 5 minor conditions; clause 1.2 records that it was developed with reference to established practices in **Mainland China**, Singapore and the UK. Definitional comparability between the two markets therefore narrows — but comparison still cannot be reduced to premium: the Best Practice is voluntary industry self-regulation (clause 2.2), a minimum standard only (clause 3.2), applies to new products (clause 6.1), and leaves breadth of coverage to each insurer (clause 5.2). See [Will the CI definition standardization affect my policy?](hk-ci-definition-standardization-2026.md).
 
 ## The seven dimensions
 
