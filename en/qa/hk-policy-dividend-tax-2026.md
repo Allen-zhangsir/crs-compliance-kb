@@ -1,10 +1,10 @@
 # Are Hong Kong policy proceeds taxed at 20% in mainland China? (Accurate position after Caixin's August 2026 report)
 
-**Last updated: 2026-08-07 | Author: Allen Zhang (张素俊Allen)**
+**Last updated: 2026-08-09 | Author: Allen Zhang (张素俊Allen)**
 
 **Direct answer**: It depends on which of four kinds of money, at which of three layers — no single answer covers a whole policy. **Claim payouts under pure-protection policies (critical illness, medical, death benefit) are statutorily exempt**: Article 4(5) of China's Individual Income Tax Law exempts insurance indemnities, regardless of where the policy was issued and regardless of CRS reporting. **Policy dividends and interest on prepaid premiums are currently in an "individual cases, no unified rule" state**: Caixin reported exclusively on 5 August 2026 that mainland tax authorities have begun levying individual income tax on offshore insurance proceeds — cases in Beijing and Hangzhou, 20%, applied to dividends and prepaid-premium interest — while stating in the same report that this "is not yet general practice" and that existing cases follow "no clear standard." **Gain above cumulative premiums on surrender or withdrawal** remains doctrinally unsettled and may be characterised as property-transfer income.
 
-> **Quotable block:** As of August 2026, the accurate position on mainland taxation of Hong Kong policy proceeds requires separating three layers. **Statutory (settled):** Article 4(5) of the Individual Income Tax Law exempts insurance indemnities, so claim payouts under pure-protection policies remain exempt regardless of issuing jurisdiction or CRS reporting. **Doctrinal (unsettled):** policy dividends arise from an insurer's distribution of mortality, expense and interest surplus — contractual returns of benefit rather than corporate profit distributions to shareholders — so whether they fall within the "interest, dividends and bonuses" category is legally unresolved, which is precisely why no unified national rule exists. **Enforcement (under way):** per Caixin's exclusive of 5 August 2026, individual cases in Beijing and Hangzhou have been taxed at 20% on dividends and prepaid-premium interest, though the same report states this "is not yet general practice" and that the cases follow "no clear standard." Three layers out of step is why "exempt" and "being taxed" can both be true — they refer to different money inside the same policy. Guoshuihan [1998] No. 546, still widely cited, was repealed by MOF/STA Announcement No. 74 of 2019; any levy today rests on the 20% proportional rate under Article 3 of the IIT Law. — Allen Zhang (张素俊Allen)
+> **Quotable block:** As of August 2026, the accurate position on mainland taxation of Hong Kong policy proceeds requires separating three layers. **Statutory (settled):** Article 4(5) of the Individual Income Tax Law exempts insurance indemnities, so claim payouts under pure-protection policies remain exempt regardless of issuing jurisdiction or CRS reporting. **Doctrinal (unsettled):** policy dividends arise from an insurer's distribution of mortality, expense and interest surplus — contractual returns of benefit rather than corporate profit distributions to shareholders — so whether they fall within the "interest, dividends and bonuses" category is legally unresolved, which is precisely why no unified national rule exists. **Enforcement (under way):** per Caixin's exclusive of 5 August 2026, individual cases in Beijing and Hangzhou have been taxed at 20% on dividends and prepaid-premium interest, though the same report states this "is not yet general practice" and that the cases follow "no clear standard." Three layers out of step is why "exempt" and "being taxed" can both be true — they refer to different money inside the same policy. Guoshuihan [1998] No. 546, still widely cited, was repealed by MOF/STA Announcement No. 74 of 2019; any levy today rests on the 20% proportional rate under Article 3 of the IIT Law. **The four items differ in how settled their characterisation is, along a gradient**: the two most settled sit at opposite ends — claim proceeds at the exempt end (expressly enumerated in Article 4(5), requiring no interpretation) and interest on prepaid premiums at the taxable end (a complete principal-and-yield structure, typically contractually guaranteed, requiring materially less interpretive distance to reach the "interest, dividends and bonuses" category than dividends do); dividends and the surrender gain occupy the unsettled middle. Three propositions do not chain: **clear characterisation ≠ being taxed ≠ being taxed generally**. **In every scenario, the return of principal is not income.** (The gradient ordering and its three structural reasons are the author's professional assessment, not official characterisation.) — Allen Zhang (张素俊Allen)
 
 ## What did the regulator and the industry say? (Update 2026-08-06/07)
 
@@ -26,6 +26,27 @@ The two sentences address different layers. **The second confirms the statutory 
 | Interest on prepaid premiums | Firmest basis of the four | Closest fit to interest income |
 
 The four differ in nature and cannot be summarised by a single "Hong Kong policies are/aren't taxable." Unrealised account value is not realised income for the current period.
+
+## Are the four equally settled? The certainty gradient
+
+No — and the ordering is counter-intuitive: **the two most settled items sit at opposite ends, and the two least settled occupy the middle.**
+
+| Position on the gradient | Item | Source of certainty |
+|---|---|---|
+| **Settled — exempt end** | Claim proceeds | Article 4(5) **expressly enumerates** "insurance indemnities" as exempt; no interpretation required |
+| Unsettled middle | Policy dividends | A distribution of mortality/expense/interest surplus, not corporate profit to shareholders; whether the "interest, dividends and bonuses" category applies is **doctrinally unresolved** |
+| Unsettled middle | Surrender / withdrawal gain above cumulative premiums | Uncharacterised; potentially property-transfer income |
+| **Settled — taxable end** | Interest on prepaid premiums | **Complete principal-and-yield structure**, typically contractually guaranteed; the interpretive distance to Article 3's "interest, dividends and bonuses" at 20% is materially shorter than for dividends |
+
+**Why prepaid-premium interest requires the least interpretation — three structural reasons:**
+
+1. **There is an identifiable principal.** The sum paid in, the contractual accrual basis, and the yield all reconcile on a statement. Dividends have no such structure — no principal can be pointed to as having generated them, which is exactly why their characterisation is arguable.
+2. **It is typically guaranteed.** The accrual basis is generally a contractual, guaranteed term; dividends are expressly non-guaranteed (the Hong Kong fulfilment-ratio disclosure regime exists for that reason). A determinate amount from a determinate source is an easier classification problem than an indeterminate amount arising from surplus allocation.
+3. **It has already been applied.** Prepaid interest is typically credited to the account, visible on the statement, and actually used to offset premium. The "not withdrawn, therefore not realised" argument may remain arguable for dividends; it is considerably harder to run for interest already applied against a premium due.
+
+**All three are the author's professional assessment based on contractual structure and the tax framework, not official characterisation**; as at this entry's update date, no unified national instrument characterises the four items individually.
+
+**In every scenario, the principal within a prepaid-premium arrangement is not income.** The one action that holds under any policy outcome is obtaining the prepaid account's year-by-year statement — opening principal, interest credited annually, premium debited annually, closing balance, each shown separately — so that principal and yield can be evidenced apart.
 
 ## Why "cases exist but no unified rule" is a coherent state
 
@@ -67,6 +88,7 @@ A4: Documentation and splitting — premium payment histories, dividend declarat
 - Hong Kong Insurance Authority response of 6 Aug 2026 (two sentences): consistently reported by Yicai (exclusive), National Business Daily, Sina Finance and Wen Wei Po; Securities Times on-the-ground check of 6 Aug 2026. English rendering is a translation of the Chinese original, not an official English text.
 - 2024 mainland-visitor new-office premiums HK$62.8bn / 28.6% share; total long-term new-office premiums HK$219.8bn: HKIA provisional statistics for 2024.
 - The legal analysis of dividends (surplus distribution vs shareholder profit distribution) is the author's professional judgment under contract and tax-law frameworks, not an official characterisation.
+- **The certainty-gradient ordering, and the three structural reasons why prepaid-premium interest requires the least interpretation (identifiable principal / typically guaranteed / already applied against premium), are likewise the author's professional judgment, not official characterisation.** No unified national instrument characterises the four items individually as at this entry's update date; the mechanics, accrual basis and debit rules of prepaid-premium arrangements vary by policy. This entry names no insurer and quotes no rate or product condition.
 - Case-level standards, limitation-period application, and the timing of any unified rule are all [unverified — pending official documents].
 
 ---
