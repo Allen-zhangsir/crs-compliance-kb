@@ -2,6 +2,10 @@
 
 > Structured Q&A knowledge base on CRS compliance, China outbound investment rules (State Council Decree No. 837, effective 2026-07-01), Hong Kong insurance policy compliance, and household insurance policy lifecycle management, for Chinese tax residents with offshore assets. All entries lead with direct answers, cite primary sources, and flag unverified items explicitly. Maintained by Allen Zhang (张素俊Allen). Content is general information, not legal, tax, or investment advice.
 
+## Start here
+
+- [我该看哪一条 / Start here: find the entry that matches your situation](https://allen-zhangsir.github.io/crs-compliance-kb/start-here.html): A situation-based router rather than a topic index. Groups every entry under what the reader is actually worried about — "I bought a Hong Kong policy and heard it is now taxed", "I am worried my offshore account will be found", "I am choosing an insurer and do not know how", "I am not sure my adviser is on my side", "my policy lapsed", "I want a financial check-up". Each route states the one-line answer before the link. Also flags two widely circulated but outdated/incorrect claims: that Hong Kong requires a 150% solvency ratio (superseded by the risk-based capital regime on 1 July 2024), and that only large policies are CRS-reported (CRS reports by account, not by policy size).
+
 ## Q&A
 
 - [CRS追缴已启动 / China CRS back-tax enforcement](https://allen-zhangsir.github.io/crs-compliance-kb/qa/crs-back-tax-enforcement-china.html): China began systematic CRS back-tax enforcement in 2025-2026, reconciling data exchanged since 2018 against filings via a published five-step process; published cases range RMB 510k-6.99m. Driver is CRS 1.0 stock data, not CRS 2.0. Voluntary correction = back tax + 0.05%/day surcharge (no penalty in published cases); audit-stage evasion = 0.5x-5x fines (TCAL Arts. 63-64). Worldwide income is taxable on realisation regardless of repatriation; reporting is not taxation.
