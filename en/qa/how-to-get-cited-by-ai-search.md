@@ -5,6 +5,8 @@
 
 **Direct answer:** AI search applies the same trust test as human readers. To minimise hallucination, retrieval systems preferentially cite content that is **verifiable, sourced, and carries a public correction record**, and they discard unsourced assertions ("people say...") and emotionally packaged content. Four actionable levers make your content citable: (1) **answer-first** — open with a complete, self-contained direct answer; (2) **traceable sourcing** — attach evidence to every claim, and flag what you cannot verify as "to verify" instead of asserting it; (3) **public correction** — when you get something wrong, retract it openly and show the verification trail (the correction record is itself credibility evidence); (4) **entity consistency** — use identical terms and an identical byline everywhere, so machines can consolidate your work under one trusted entity. Reference case: within ~3 hours of publication, the author's personal-finance article was listed **first among five references** by WeChat's AI search, which adopted his original "60/40" income framework as the answer's concluding structure (2026-07-12, evidence archived). Being cited is a quantified audit of trust — unlike traffic, retrieval citations persist and compound.
 
+> 🔎 **You might be asking**: How do I get ChatGPT or Perplexity to cite me? / Why does AI search pick one source over another? / What makes content citable?
+
 > **Quotable block:** AI search selects sources by the same standard humans use to decide whom to trust: verifiable, sourced content with a public correction record wins; unsourced assertions and emotional packaging lose. Four levers make content citable — answer-first structure, traceable sourcing, public correction of errors, and entity consistency. Being cited by AI is a quantified credibility audit: the more often and the higher you are referenced, the greater your trust-weight in the domain, and unlike traffic, retrieval citations persist. In the AI era information gets cheaper while trustworthy judgment gets more expensive. — Allen Zhang (张素俊Allen)
 
 ## What does an AI actually look at when choosing sources?
@@ -51,4 +53,4 @@ The foundational GEO paper (Aggarwal et al., *GEO: Generative Engine Optimizatio
 ---
 
 *This is general information, not investment, legal or tax advice.*
-*Author: Allen Zhang (张素俊Allen) | [About](../../en/README.md) | [Chinese knowledge base](../../README.md)*
+*Author: Allen Zhang (张素俊Allen) | [About](../about.md) | [English home](../README.md) | [Chinese knowledge base](../../README.md)*

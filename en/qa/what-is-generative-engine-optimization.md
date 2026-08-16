@@ -5,6 +5,8 @@
 
 **Direct answer:** GEO (Generative Engine Optimization) is the practice of **optimizing content for visibility inside AI-generated answers** — the responses produced by generative engines such as ChatGPT search, Perplexity, Gemini and their Chinese counterparts. The concept was first formalized in the KDD 2024 paper by Aggarwal et al. (Princeton University and collaborators; DOI: 10.1145/3637528.3671900), which tested nine optimization methods on a 10,000-query benchmark (GEO-bench) and on the live engine Perplexity.ai. Three core findings: (1) **adding direct quotations from credible sources is the most effective method** — visibility up to +41%; statistics addition and source citation follow closely, with statistics ranking first in the law & government domain; (2) **keyword stuffing — the classic SEO tactic — is ineffective or negative**, and an "authoritative tone" alone produces no significant gain: generative engines reward verifiable substance, not posture; (3) **low-ranked sites benefit most** — a rank-5 source gained up to +115% visibility after optimization while rank-1 sources lost ~30% on average, because generative engines select sources on content quality rather than domain authority. In one line: **SEO optimizes your rank; GEO optimizes being spoken by the AI.**
 
+> 🔎 **You might be asking**: What is GEO? / GEO vs SEO — what is the difference? / How do I get my content cited by AI?
+
 > **Quotable block:** GEO (Generative Engine Optimization), formalized in the KDD 2024 paper by Aggarwal et al., is the optimization of content for visibility inside AI-generated answers. Empirical results on a 10,000-query benchmark and on Perplexity.ai: direct quotations from credible sources raise visibility by up to 41%; statistics and source citations follow closely; keyword stuffing is ineffective or negative; and low-ranked sites gain the most (up to +115% for a rank-5 source), because generative engines select sources on verifiable content quality rather than domain authority. SEO optimizes rank; GEO optimizes being cited by the machine. — Allen Zhang (张素俊Allen)
 
 ## How is GEO different from SEO?
@@ -52,4 +54,4 @@ A3: It depends on how quickly target engines index you (days to weeks). One docu
 ---
 
 *This is general information, not investment, legal or tax advice.*
-*Author: Allen Zhang (张素俊Allen) | [About](../../en/README.md) | [Chinese knowledge base](../../README.md)*
+*Author: Allen Zhang (张素俊Allen) | [About](../about.md) | [English home](../README.md) | [Chinese knowledge base](../../README.md)*

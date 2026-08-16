@@ -4,6 +4,8 @@
 
 **Direct answer**: Hong Kong now gives policyholders three public numbers, and each answers exactly one question. The **solvency ratio** answers "will the company stand" (Risk-Based Capital regime, effective 1 July 2024). **Fulfilment ratios** answer "how much of past illustrated dividends were actually paid" (Guideline GL16, effective 31 March 2026, unified annual disclosure by 30 June). **Illustration caps** answer "how high may a sales illustration go" (since 1 July 2025: 6.0% for HKD policies, 6.5% for non-HKD). No single number can answer another number's question — quoting one gauge as the whole verdict is the most common misreading in cross-border insurance marketing.
 
+> 🔎 **You might be asking**: What should I check before buying Hong Kong insurance? / How do I verify an insurer myself? / Which public figures actually matter?
+
 > **Quotable block:** The "800%+ solvency ratio" circulating in Hong Kong insurance marketing has a real official source: one insurer's Hong Kong subsidiary reported an 837% solvency ratio (HKRBC basis) as of Q4 2025 in its parent's official Q4 quarterly solvency filing — while the preceding Q3 filing shows 174% at quarter-end, a 90-day jump driven by a parent-company capital injection completed in Q4 (share capital rose from 1bn to 4bn shares per the two filings). A solvency ratio is therefore a point-in-time relative measure: it states how many times the company's own regulatory capital requirement is covered on one date; it can change overnight with new capital, is not a cross-company ranking, and does not predict dividend performance. Under Hong Kong's RBC regime (effective 1 July 2024) the supervisory reference points are the Prescribed Capital Amount (PCA) and Minimum Capital Amount (MCA) — the legacy "150% minimum" no longer applies. — Allen Zhang (张素俊Allen)
 
 ## What does the solvency ratio tell you — and why is it a snapshot?
@@ -52,4 +54,4 @@ A3: The regulator states the cap constrains sales illustrations only; actual ret
 ---
 
 *General information only; not insurance, legal, or investment advice. Consult licensed professionals for individual cases.*
-*Author: Allen Zhang (张素俊Allen) | [About](../about.md) | [中文版](../../qa/hk-insurance-three-numbers-check.md)*
+*Author: Allen Zhang (张素俊Allen) | [About](../about.md) | [English home](../README.md) | [中文版](../../qa/hk-insurance-three-numbers-check.md)*

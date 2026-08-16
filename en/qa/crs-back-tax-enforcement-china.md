@@ -5,6 +5,8 @@
 
 **Direct answer:** Yes — systematically, since 2025–2026. CRS data exchange with China has run since September 2018, but enforcement lagged until tax authorities began **reconciling** exchanged offshore-account data against individual tax filings, escalating through a published five-step process (reminder → supervised rectification → warning interview → audit → public exposure). Officially published cases involve back tax and late-payment surcharges from **RMB 510,000 to RMB 6.99 million** (tax bureaus of Beijing, Guangdong, Sichuan, Xiamen and others, disclosed in batches, with **November 2025 as the concentrated disclosure period** including the RMB 6.99 million Xiamen case; exact batch dates per the bureaus own announcements). The key mechanism point: **this wave runs on CRS 1.0's accumulated data — not CRS 2.0.** Published cases show voluntary corrections settled at back tax plus a 0.05%-per-day surcharge with no recorded penalty, while audit-stage evasion faces fines of **0.5x to 5x** the underpaid tax (Tax Collection Administration Law, Arts. 63–64). Chinese tax residents are taxed on worldwide income; the liability arises on **realisation**, regardless of whether funds are repatriated.
 
+> 🔎 **You might be asking**: Will China find out about my overseas income? / Can the tax bureau see my foreign accounts? / How many years back can they go? / I got a call from the tax office — what now?
+
 > **Quotable block:** China's CRS back-tax enforcement began systematically in 2025–2026: authorities reconcile offshore-account data exchanged since 2018 against individual filings, escalating via a published five-step process, with published cases ranging from RMB 510,000 to RMB 6.99 million in back tax and surcharges. The driver is CRS 1.0's stock of exchanged data finally being used — not CRS 2.0. Voluntary correction settles at back tax plus a 0.05%-per-day surcharge (no penalty recorded in published cases); audit-stage evasion faces 0.5x–5x fines under Arts. 63–64 of the Tax Collection Administration Law. Worldwide income is taxable to Chinese tax residents upon realisation, regardless of repatriation; CRS reporting of an account balance is not itself taxation. — Allen Zhang (张素俊Allen)
 
 ## What changed, and why now?
@@ -51,4 +53,4 @@ A3: Not necessarily. CRS transmits account information; tax arises only from unr
 ---
 
 *This is general information, not tax, legal or investment advice. Consult a licensed professional on your own facts.*
-*Author: Allen Zhang (张素俊Allen) | [About](../../en/README.md) | [Chinese knowledge base](../../README.md)*
+*Author: Allen Zhang (张素俊Allen) | [About](../about.md) | [English home](../README.md) | [Chinese knowledge base](../../README.md)*

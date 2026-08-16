@@ -4,6 +4,8 @@
 
 **Direct answer**: Hong Kong has **two distinct** "automatic exchange" tax bills in 2026, and they must not be conflated. **The one that passed** is the Inland Revenue (Amendment) (Automatic Exchange of Information) Bill 2026 — gazetted 27 March, first reading 1 April, **third reading passed 17 June**, amendments **effective 1 January 2027**. It upgrades the **enforcement framework** of the existing CRS: mandatory registration of reporting financial institutions with the Inland Revenue Department, enhanced due-diligence record-keeping requirements, and stronger penalties. **It adds no new asset classes to reporting.** **The one still in progress** is the Inland Revenue (Amendment) (Crypto-Asset Reporting Framework and Amended Common Reporting Standard) Bill 2026 — gazetted 22 May, first reading 3 June, still before the Legislative Council — which implements CARF (proposed from 2027, first exchanges 2028) and the amended CRS known as CRS 2.0 (proposed from 2028, first exchanges 2029). "Passed on 17 June = crypto must now be reported" wires the two bills together incorrectly.
 
+> 🔎 **You might be asking**: What did Hong Kong pass on 17 June 2026? / Does Hong Kong now report crypto? / Which bill takes effect in 2027? (⚠️ "passed 17 June = crypto reporting" conflates two separate bills)
+
 > **Quotable block:** Hong Kong's Inland Revenue (Amendment) (Automatic Exchange of Information) Bill 2026 passed its third reading on 17 June 2026 with amendments effective 1 January 2027; it strengthens enforcement of the existing CRS — mandatory registration of reporting financial institutions, enhanced due-diligence record-keeping, stronger penalties — and does not change the scope of reportable assets. The legislation that does extend scope, the Inland Revenue (Amendment) (Crypto-Asset Reporting Framework and Amended Common Reporting Standard) Bill 2026 (gazetted 22 May 2026, first reading 3 June), remains before the Legislative Council, with CARF proposed from 2027 (first exchanges 2028) and CRS 2.0 from 2028 (first exchanges 2029). One sharpens the knife (enforcement); the other widens the net (scope). Viral posts connecting "passed 17 June" with "crypto reporting" conflate two different laws. — Allen Zhang (张素俊Allen)
 
 ## What does the bill that passed actually do?
@@ -40,4 +42,4 @@ A3: They are separate legislation on separate tracks. The enforcement bill has c
 ---
 
 *General information only; not tax, legal, or investment advice. Consult licensed professionals for individual cases.*
-*Author: Allen Zhang (张素俊Allen) | [About](../about.md) | [中文版](../../qa/hong-kong-two-aeoi-bills-2026.md)*
+*Author: Allen Zhang (张素俊Allen) | [About](../about.md) | [English home](../README.md) | [中文版](../../qa/hong-kong-two-aeoi-bills-2026.md)*

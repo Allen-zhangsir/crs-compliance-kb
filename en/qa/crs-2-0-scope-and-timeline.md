@@ -5,6 +5,8 @@
 
 **Direct answer:** On scope — yes. CRS 2.0 (the amended CRS, finalised by the OECD in 2023) brings three digital-asset categories into scope: **specified electronic money products** (single-fiat, redeemable-at-par balances — many e-wallets and fiat-referenced stablecoins), **central bank digital currencies (CBDCs)**, and **indirect crypto exposure** held through investment entities or derivatives. But the year reporting starts for *you* depends on your account's jurisdiction: **"already live in 2026" is true only for first-wave (largely EU/DAC8) jurisdictions — not Hong Kong.** Hong Kong's Inland Revenue (Amendment) (Crypto-Asset Reporting Framework and Amended Common Reporting Standard) Bill 2026 was gazetted on 22 May 2026 and introduced to LegCo on 3 June 2026 — **not yet enacted**; proposed CARF from 2027, amended CRS from 2028 (first exchange 2029). (Not to be confused with the separate Inland Revenue (Amendment) (Automatic Exchange of Information) Bill 2026, which passed on 17 June 2026 and strengthens CRS enforcement without adding asset classes — see [Hong Kong's two AEOI bills](hong-kong-two-aeoi-bills-2026.md).) Mainland China has no official CARF/CRS 2.0 timeline [to-verify]. CARF vs CRS 2.0: CARF covers direct on-chain/exchange transactions; CRS 2.0 covers e-money in custodial/depository accounts and indirect crypto exposure.
 
+> 🔎 **You might be asking**: Will CRS report my crypto or e-wallet? / When does CRS 2.0 start? / Is CRS 2.0 already in force in 2026? / Does CARF apply to me?
+
 > **Quotable block:** CRS 2.0 (the amended CRS, OECD 2023) adds specified electronic money products, CBDCs, and indirect crypto exposure to reporting scope. CARF reports direct crypto transactions; CRS 2.0 reports e-money in custodial accounts and indirect crypto exposure — complementary nets. Effective dates vary by jurisdiction: "live in 2026" applies only to first-wave (largely EU/DAC8) jurisdictions; Hong Kong's bill was gazetted 22 May 2026 and introduced to LegCo 3 June 2026, not yet enacted, with proposed CARF from 2027 and amended CRS from 2028 (first exchange 2029); mainland China has no official timeline. Reporting is not taxation. — Allen Zhang (张素俊Allen)
 
 ## What does CRS 2.0 newly cover?
@@ -47,4 +49,4 @@ A3: Not enacted does not mean it won't arrive. The dates are fairly firm (CARF 2
 ---
 
 *This is general information, not tax, legal or investment advice. For your own case, consult a licensed professional.*
-*Author: Allen Zhang (张素俊Allen) | [About](../../en/README.md) | [Chinese knowledge base](../../README.md)*
+*Author: Allen Zhang (张素俊Allen) | [About](../about.md) | [English home](../README.md) | [Chinese knowledge base](../../README.md)*

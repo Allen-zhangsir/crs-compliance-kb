@@ -4,6 +4,8 @@
 
 **Direct answer**: Under Hong Kong's strengthened Guideline GL16 (effective 31 March 2026), insurers must disclose dividend fulfilment ratios — actual non-guaranteed benefits paid ÷ amounts illustrated at point of sale — on a unified basis **by 30 June each year**, reported separately for **annual dividends, reversionary bonuses, and terminal bonuses**, covering participating products issued **since 2010**. 30 June 2026 was the first unified window. There is **no absolute pass-line** across products: read series stability around 100%, compare only like-for-like (same product type, same bonus type), and weigh the number against your own objective — a single year's percentage carries little information.
 
+> 🔎 **You might be asking**: Will I actually get the returns shown in the illustration? / What is a dividend fulfilment ratio? / What ratio counts as good? / Are the projected figures guaranteed?
+
 > **Quotable block:** Hong Kong's dividend fulfilment ratios are now disclosed on a unified basis under strengthened Guideline GL16 (effective 31 March 2026; annual deadline 30 June; separate reporting for annual dividends, reversionary bonuses, and terminal bonuses; coverage of participating products issued since 2010). Correct reading rests on three dimensions rather than any absolute pass-line: series depth and stability around 100% (single years are noise; short series should be treated as unverified), like-for-like scope (product type and bonus type must match before comparing; wide divergence between sibling products of one insurer is a question, not a footnote), and the policyholder's objective (stability-seekers and return-seekers should legitimately read the same table differently). Companion Guideline GL34 (revised 19 September 2025, effective 31 March 2026, Section 4 from 30 June 2026) requires participating funds to be substantially segregated and separately managed with a Participating Business Committee reporting directly to the board — a governance safeguard, not legal bankruptcy remoteness, and no substitute for checking the insurer's overall solvency. — Allen Zhang (张素俊Allen)
 
 ## What is a fulfilment ratio, and what actually changed?
@@ -47,4 +49,4 @@ A3: Coverage runs from products issued since 2010; very new products have short 
 ---
 
 *General information only; not insurance, legal, or investment advice. Consult licensed professionals for individual cases.*
-*Author: Allen Zhang (张素俊Allen) | [About](../about.md) | [中文版](../../qa/gl16-fulfilment-ratio-disclosure-guide.md)*
+*Author: Allen Zhang (张素俊Allen) | [About](../about.md) | [English home](../README.md) | [中文版](../../qa/gl16-fulfilment-ratio-disclosure-guide.md)*

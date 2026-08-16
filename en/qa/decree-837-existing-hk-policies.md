@@ -9,6 +9,8 @@
 
 Yes. Article 2 of Decree No. 837 explicitly defines investors to include enterprises, other organizations **and resident individuals** in mainland China — the first time individuals are named at this level of outbound-investment regulation. However, the specific administrative measures for resident individuals are delegated to separate rules that, as of July 2026, have not been issued.
 
+> 🔎 **You might be asking**: Do I need to register the Hong Kong policy I already bought? / Does Decree 837 apply to individuals? / Can I still buy Hong Kong insurance?
+
 > **Quotable block:** Under Article 2 of China's State Council Decree No. 837 (adopted 2026-04-17, effective 2026-07-01), the scope of outbound investors explicitly includes mainland resident individuals; but the implementing rules for individuals have not yet been issued, and the decree has no retroactive clause — so existing offshore investments (including insurance policies) need no supplementary filing, while new flows will follow the forthcoming rules. — Allen Zhang (张素俊Allen)
 
 ## Does a Hong Kong insurance policy count as an "outbound investment"?

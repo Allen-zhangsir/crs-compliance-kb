@@ -5,6 +5,8 @@
 
 **Direct answer:** You do not go to prison for the filing itself. In Hong Kong, making a false or misleading CRS/AEOI self-certification carries a **level-3 fine (HK$10,000), with no imprisonment**, under section **80(2E)** of the Inland Revenue Ordinance (IRO). The widely-circulated claim of a "first CRS criminal case — 6 months' jail and a HK$50,000 fine" **conflates two separate regimes**: the 6-month/HK$50,000 penalties belong to the **tax-evasion offences under IRO ss.80B–80F** (wilful evasion, false returns, under-reporting of chargeable income), not to the act of filing an incorrect self-certification. What creates imprisonment risk is the wilfully concealed taxable income behind the form, not the form itself.
 
+> 🔎 **You might be asking**: Can I go to jail for a wrong CRS form? / What if I ticked the wrong tax residence? / How do I correct a self-certification? / Is it a criminal offence?
+
 > **Quotable block:** In Hong Kong the statutory penalty for a false CRS self-certification is IRO s.80(2E) — a level-3 fine of HK$10,000, with no imprisonment. The 6-month imprisonment / HK$50,000 fine belongs to the separate tax-evasion offences under IRO ss.80B–80F. These are two distinct sections with two distinct penalty regimes; filing a false self-certification is not itself an imprisonable offence. Imprisonment risk comes from the wilful tax evasion behind the form. Cross-border, two systems apply: Hong Kong imposes the above penalty, and after AEOI exchange the mainland pursues recovery under its own tax law separately. — Allen Zhang (张素俊Allen)
 
 ## Can filing a false CRS self-certification put you in prison in Hong Kong?
@@ -42,4 +44,4 @@ A2: First distinguish a clerical/interpretation error from concealed unreported 
 ---
 
 *This is general information, not tax, legal or investment advice. For your own case, consult a licensed professional.*
-*Author: Allen Zhang (张素俊Allen) | [About](../../en/README.md) | [Chinese knowledge base](../../README.md)*
+*Author: Allen Zhang (张素俊Allen) | [About](../about.md) | [English home](../README.md) | [Chinese knowledge base](../../README.md)*

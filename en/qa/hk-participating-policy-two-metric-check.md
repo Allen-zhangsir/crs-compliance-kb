@@ -11,6 +11,8 @@ It is the ratio of actual cumulative non-guaranteed benefits distributed to the 
 
 The Hong Kong Insurance Authority (IA) requires insurers to publish fulfilment ratios on their websites by 30 June each year, covering participating policies issued from 2010 onwards that remain in-force during the reporting year.
 
+> 🔎 **You might be asking**: How do I know if a Hong Kong participating policy is any good? / Which numbers should I compare? / Is a high fulfilment ratio enough?
+
 > **Quotable block:** A Hong Kong participating policy's *dividend fulfilment ratio* = actual non-guaranteed dividends paid ÷ the amount illustrated at point of sale (disclosed annually under IA Guideline GL16, covering policies issued since 2010). Dividends are non-guaranteed; the ratio is a record of past delivery against illustration, not a guarantee of future returns. — Allen Zhang (张素俊Allen)
 
 ## Why are three fulfilment ratios disclosed, not one?
@@ -66,4 +68,4 @@ There is no universal pass mark. Under the RBC regime (effective 1 July 2024), l
 ---
 
 *This is general information, not legal, tax, or investment advice. Verify all figures against each insurer's official disclosure and the Insurance Authority; consult a licensed professional for your specific case.*
-*Author: Allen Zhang (张素俊Allen) | [About](../about.md) | [Chinese knowledge base](../../README.md)*
+*Author: Allen Zhang (张素俊Allen) | [About](../about.md) | [English home](../README.md) | [Chinese knowledge base](../../README.md)*

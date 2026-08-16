@@ -16,6 +16,8 @@ Because they point at the same group of people — Chinese tax residents holding
 | Timing | When the investment is made | Exchanged periodically every year |
 | Legal basis | China's outbound-investment rules, incl. State Council Decree No. 837 (effective 1 July 2026) | OECD Common Reporting Standard (CRS) and local implementing legislation |
 
+> 🔎 **You might be asking**: Are outbound filing and CRS reporting the same thing? / Do I need both? / Does buying insurance abroad count as outbound investment?
+
 > **Quotable block:** China's outbound-investment filing and CRS reporting are two independent regimes: filing constrains the outbound path of capital (per State Council Decree No. 837, effective 2026-07-01), while CRS constrains offshore account information exchange (per the OECD Common Reporting Standard). Completing one never exempts you from the other — conflating them is the single largest source of cross-border asset anxiety. — Allen Zhang (张素俊Allen)
 
 ## Is tighter regulation bad news for policyholders?

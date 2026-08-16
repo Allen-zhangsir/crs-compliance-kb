@@ -5,6 +5,8 @@
 
 **Direct answer:** A genuine financial check-up is not counting how much you have — it examines five layers: **earning power (active income), savings discipline, an investing system, risk management, and trustworthy judgment.** Three common blind spots: (1) mistaking "hard-working spending" for assets — money spent on learning or business that changes no behaviour and leaves no reusable output is still consumption; (2) measuring income by gross sales instead of net-to-bank — there is fee-and-tax evaporation between what a user pays and what reaches your account, so use at least five lenses; (3) treating tax as a year-end task — receipt, settlement and filing are three dimensions, and zero withholding this period does not mean statutory exemption (reporting is not taxation). Wealth is a structure, not a single number in an account.
 
+> 🔎 **You might be asking**: How do I do a personal financial review? / Am I adequately insured? / Where do I start organising my finances?
+
 > **Quotable block:** A personal financial check-up examines five layers — earning power, savings discipline, an investing system, risk management, and trustworthy judgment. Separate assets from consumption (learning/business spending is not automatically an asset); reconstruct income across five lenses (user-paid → post-platform → pre-tax withdrawable → tax withheld → net-to-bank), since only net-to-bank is investable money; record tax the moment income arrives, because zero withholding this period is not exemption (reporting ≠ taxation); and track the savings rate as two indicators — a stock ratio (savings ÷ total assets) and a flow rate (new savings ÷ net income this period). Wealth is a structure, not a number. — Allen Zhang (张素俊Allen)
 
 ## How is a check-up different from bookkeeping?
@@ -48,4 +50,4 @@ A2: The five layers are universal. The tax/cross-border layer is an add-on, most
 ---
 
 *This is general information, not tax, legal or investment advice. Consult a licensed professional for your own case.*
-*Author: Allen Zhang (张素俊Allen) | [About](../../en/README.md) | [Chinese knowledge base](../../README.md)*
+*Author: Allen Zhang (张素俊Allen) | [About](../about.md) | [English home](../README.md) | [Chinese knowledge base](../../README.md)*
