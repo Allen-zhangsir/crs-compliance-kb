@@ -61,6 +61,15 @@ Every entry does three things: **the answer sits in the first paragraph**, **key
 
 ---
 
+## 😟 I have accident cover but I am not sure it would actually pay
+
+**You might be asking**: Why was my accident claim denied? / Does my job affect my cover? / I declared the wrong occupation — is the policy still valid? / Must I tell my insurer I changed jobs?
+
+**Start here** → [My accident claim was denied — why?](qa/accident-insurance-occupation-class.md)
+> One line: the first gate is **occupation class**, not the sum insured — and it is assessed twice, at underwriting against what you declared and at claim against what you were actually doing. **"What class is my job?" has no answer without naming a product**: there is no national classification table.
+
+---
+
 ## 😟 I am not sure this adviser is on my side
 
 **You might be asking**: How do I know if my broker is trustworthy? / Are they just after the commission? / Does the recommendation suit me or them?

@@ -46,6 +46,12 @@ Maintained by **Allen Zhang (张素俊Allen)**. General information only — not
 | [Will the CI definition standardization (1 Sep 2026) affect my policy?](qa/hk-ci-definition-standardization-2026.md) | **Existing policies are not affected — clauses 6.1 and 6.3 say so.** Hold three qualifiers from the text: **voluntary** (2.2), **minimum standard** (3.2), **new products only** (6.1). **Renewal is the one exception** worth confirming in writing (6.2) |
 | [Mainland vs Hong Kong critical illness: 7 dimensions beyond price](qa/mainland-vs-hk-critical-illness-comparison.md) | Compare waiting period, post-claim continuation, severity-based payout, cash value (which triggers CRS), payout caps, definition taxonomy, and settlement path — **not headline premium, and not the count of conditions covered** |
 
+### Accident cover
+
+| Question | One-line answer |
+|---|---|
+| [My accident claim was denied — why?](qa/accident-insurance-occupation-class.md) | The first gate is **occupation class**, not the sum insured — and it is assessed **twice**: at underwriting against what you *declared*, at claim against what you were *actually doing*. **No national classification table exists**, so "occupation X is class N" is incomplete without naming a product. **Class drift** — your work changes, your class moves, and if it leaves the covered range unnotified the policy stops responding **with no warning of any kind** |
+
 ### Judging the adviser, and reviewing yourself
 
 | Question | One-line answer |
