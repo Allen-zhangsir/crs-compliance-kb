@@ -78,11 +78,14 @@ A2: Soften the wording: "I'd like to understand which parts of your recommendati
 **Q3: My adviser said "you don't need me for this." Are they brushing me off?**
 A3: Usually the opposite. An adviser who never says it has every recommendation discounted by one layer of credibility. **Being able to mark out where you are not needed is itself part of the expertise.**
 
-**Q4: Does this apply only to insurance?**
-A4: No. It applies wherever **the person advising and the person selling are the same person** — insurance, parts of wealth management, some legal and tax services. Insurance is used here because the conflict points are unusually visible.
+**Q4: My adviser said this — can I now simply trust them?**
+A4: **No.** A line can be learned, and it is learned easily. What decides whether it means anything is the precondition behind it — **whether this adviser's diagnosis is independent of the sale**. So the test does not change: do not weigh what they say, weigh which side they took **on the occasion it cost them**. **Once is not a sample.** An adviser who volunteers the disclosure and still recommends closing now has only delivered the setup; an adviser who discloses and then advises against closing has given you behaviour to verify.
 
-**Q5: I've already bought. Is this still useful?**
-A5: Yes. Questions 6 and 2 apply directly to an existing relationship. **Post-issue service quality says more about the nature of the relationship than pre-sale attentiveness ever did.**
+**Q5: Does this apply only to insurance?**
+A5: No. It applies wherever **the person advising and the person selling are the same person** — insurance, parts of wealth management, some legal and tax services. Insurance is used here because the conflict points are unusually visible.
+
+**Q6: I've already bought. Is this still useful?**
+A6: Yes. Questions 6 and 2 apply directly to an existing relationship. **Post-issue service quality says more about the nature of the relationship than pre-sale attentiveness ever did.**
 
 ## Sources and limits
 
