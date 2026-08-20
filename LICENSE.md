@@ -1,8 +1,16 @@
+---
+layout: page
+title: "Copyright and Usage Notice 版权与使用声明"
+permalink: /license/
+author: 张素俊Allen
+last_modified_at: '2026-08-20'
+---
+
 # Copyright and Usage Notice
 
 **版权与使用声明**
 
-*Last updated: 2026-08-18*
+*Last updated: 2026-08-20*
 
 ---
 

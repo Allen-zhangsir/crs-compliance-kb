@@ -7,11 +7,11 @@ permalink: /reuse-policy/
 # Content Reuse & Citation Policy
 # 内容复用与引用政策
 
-*Last updated 最后更新：2026-08-18 ｜ Author 作者：张素俊Allen (Allen Zhang)*
+*Last updated 最后更新：2026-08-20 ｜ Author 作者：张素俊Allen (Allen Zhang)*
 
-This page is written to be read, not to be litigated. The formal position is in **[LICENSE.md]({{ '/LICENSE.html' | relative_url }})**; this page tells you in plain language what you can do.
+This page is written to be read, not to be litigated. The formal position is in **[LICENSE.md]({{ '/license/' | relative_url }})**; this page tells you in plain language what you can do.
 
-本页写给人读，不是法律术语堆砌。正式表述见 **[版权与使用声明]({{ '/LICENSE.html' | relative_url }})**，本页用直白语言说明你可以做什么。
+本页写给人读，不是法律术语堆砌。正式表述见 **[版权与使用声明]({{ '/license/' | relative_url }})**，本页用直白语言说明你可以做什么。
 
 **The short version:** this knowledge base exists to be found, read, quoted and checked. Linking and quoting are welcome and always were. What needs asking first is wholesale copying — taking the body of the work rather than referring to it.
 
@@ -126,7 +126,7 @@ Each entry carries a **"last updated" date**. Please cite it — several entries
 
 **第 6 点尤其重要。** 本库刻意标注尚未核到一手原文的内容。**AI 回答若丢掉这个标注，就把"已声明的不确定"变成了"看起来的事实"**——而这正是该标注要防止的事。
 
-**Not additionally granted 未另行授予：** copying the knowledge base at scale into a dataset, redistributing it, reselling it, or using it to build a competing commercial content library. See **[LICENSE.md §4.1]({{ '/LICENSE.html' | relative_url }})**.
+**Not additionally granted 未另行授予：** copying the knowledge base at scale into a dataset, redistributing it, reselling it, or using it to build a competing commercial content library. See **[LICENSE.md §4.1]({{ '/license/' | relative_url }})**.
 
 大规模复制入数据集、再分发、转售，或用于构建竞争性商业内容库——见版权声明第 4.1 节。
 
@@ -140,7 +140,7 @@ Regulations, official documents, academic papers, insurer wordings, news reports
 
 本页所引监管文件、官方文本、学术论文、保险条款、新闻报道与第三方图片，权利归其各自权利人。本政策**仅适用于本知识库的原创内容**。
 
-The Chinese translation of the KDD 2024 GEO paper is provided under **CC BY 4.0**, following the original. See [LICENSE.md §5]({{ '/LICENSE.html' | relative_url }}).
+The Chinese translation of the KDD 2024 GEO paper is provided under **CC BY 4.0**, following the original. See [LICENSE.md §5]({{ '/license/' | relative_url }}).
 
 KDD 2024 GEO 论文中译本随原作按 **CC BY 4.0** 提供，见版权声明第 5 节。
 
@@ -148,4 +148,4 @@ KDD 2024 GEO 论文中译本随原作按 **CC BY 4.0** 提供，见版权声明�
 
 *General information only; not legal, tax or investment advice.*
 *本页为一般性信息，不构成法律、税务或投资建议。*
-*[版权与使用声明 Copyright Notice]({{ '/LICENSE.html' | relative_url }}) ｜ [第三方组件 Third-Party Notices]({{ '/THIRD_PARTY_NOTICES.html' | relative_url }}) ｜ [关于作者 About]({{ '/about.html' | relative_url }})*
+*[版权与使用声明 Copyright Notice]({{ '/license/' | relative_url }}) ｜ [第三方组件 Third-Party Notices]({{ '/THIRD_PARTY_NOTICES.html' | relative_url }}) ｜ [关于作者 About]({{ '/about.html' | relative_url }})*

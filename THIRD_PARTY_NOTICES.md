@@ -2,7 +2,7 @@
 
 **第三方组件与材料声明**
 
-*Last updated: 2026-08-18*
+*Last updated: 2026-08-20*
 
 This file lists third-party software, themes and materials used by or reproduced in this knowledge base. **None of the items below are the copyright of 张素俊Allen**, and the repository's own [Copyright and Usage Notice](LICENSE.md) does not apply to them.
 
@@ -87,6 +87,27 @@ Principal categories:
 Where a quotation is reproduced, the entry states the document name and, where available, the clause number, so the reader can check the original rather than rely on this knowledge base's rendering of it.
 
 凡逐字引用之处，条目均标明文件名称及（如有）条款编号，以便读者核对原文，而非依赖本知识库的转述。
+
+---
+
+## Build-time dependencies 构建期依赖
+
+Beyond the plugins declared in `_config.yml` (`jekyll-sitemap`, `jekyll-seo-tag`), this site
+relies on plugins bundled by **GitHub Pages** (the `github-pages` gem, via
+`actions/jekyll-build-pages`). They are declared nowhere in this repository, but the site does
+not render correctly without them.
+
+| Plugin | What it does here | Licence |
+|---|---|---|
+| `jekyll-optional-front-matter` | Renders `.md` files carrying no front matter (README, about, geo-lab, this file) | MIT |
+| `jekyll-relative-links` | Rewrites in-body `xxx.md` links to their built `.html` URLs | MIT |
+| `jekyll-readme-index` | Serves `README.md` as the site index (there is no `index.md`) | MIT |
+| `jekyll-titles-from-headings` | Derives a page title from the first `# heading` where none is set | MIT |
+| `jekyll-default-layout` | Applies the theme layout to pages that declare none | MIT |
+
+以上插件由 GitHub Pages 构建环境提供，均为 MIT 授权，版权归各自作者所有。
+**迁移提示**：若改用自建 Jekyll 构建，须先为上述页面补 front matter、并将正文内链改为
+`.html`，否则整站页面将退化为静态文件而无法访问。
 
 ---
 

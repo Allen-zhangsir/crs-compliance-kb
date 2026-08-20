@@ -5,6 +5,19 @@ description: "结构化问答：CRS信息交换、对外投资监管（837号令
 lang: zh-CN
 author: "张素俊Allen"
 theme: minima
+# ⚠️ 构建依赖说明（勿删）
+# 除下列显式插件外，本站还隐性依赖 GitHub Pages（github-pages gem /
+# actions/jekyll-build-pages）自带的默认插件。它们不写在这里也生效，
+# 但换成裸 `jekyll build` 就全部消失：
+#   jekyll-optional-front-matter —— 让无 front matter 的 .md 也渲染成页面
+#                                   （README/about/geo-lab/THIRD_PARTY_NOTICES 等仍靠它）
+#   jekyll-relative-links        —— 把正文里的 xxx.md 内链改写成 .html（否则内链全 404）
+#   jekyll-readme-index          —— 用 README.md 作首页（本仓库没有 index.md）
+#   jekyll-titles-from-headings  —— 为未设 title 的页面取首个 h1 作标题
+#   jekyll-default-layout        —— 自动套用主题 layout
+# 迁移前置条件：改用自建 Jekyll 前，须先给上述页面补 front matter、
+# 并把正文内链改成 .html，否则整站退化为静态文件。
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
