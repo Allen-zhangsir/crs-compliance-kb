@@ -1,3 +1,13 @@
+---
+title: 什么是 GEO（生成式引擎优化）？那篇开山论文到底讲了什么？
+description: GEO（Generative Engine Optimization，生成式引擎优化）是指优化内容以提高其在 AI 搜索引擎（如 ChatGPT 搜索、Perplexity、Gemini、元宝、豆包）生成的回答中被引用的可见度。
+date: '2026-07-13'
+last_modified_at: '2026-07-13'
+author: 张素俊Allen
+seo:
+  type: Article
+---
+
 # 什么是 GEO（生成式引擎优化）？那篇开山论文到底讲了什么？
 
 **最后更新：2026-07-13 ｜ 作者：张素俊Allen**

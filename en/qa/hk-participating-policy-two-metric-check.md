@@ -1,3 +1,13 @@
+---
+title: How do you tell whether a Hong Kong participating (dividend) insurance policy is reliable?
+description: 'You don''t need a finance background — just check two publicly available numbers and cross-reference them: the dividend fulfilment ratio (how much of the illustrated non-guaranteed dividend the insurer has actually delivered over the years) and the solvency ratio (how much capital the insurer holds to back your policy).'
+date: '2026-07-08'
+last_modified_at: '2026-07-04'
+author: 张素俊Allen
+seo:
+  type: Article
+---
+
 # How do you tell whether a Hong Kong participating (dividend) insurance policy is reliable?
 
 **Last updated: 2026-07-04 | Author: Allen Zhang (张素俊Allen)**

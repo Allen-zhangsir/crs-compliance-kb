@@ -1,3 +1,13 @@
+---
+title: How to read Hong Kong's first unified dividend fulfilment-ratio disclosure under GL16 — is there a pass-line?
+description: Under Hong Kong's strengthened Guideline GL16 (effective 31 March 2026), insurers must disclose dividend fulfilment ratios — actual non-guaranteed benefits paid ÷ amounts illustrated at point of sale — on a unified basis by 30 June each year, reported separately for annual dividends, reversionary bonuses, and terminal bonuses, covering participating products issued since 2010.
+date: '2026-07-18'
+last_modified_at: '2026-07-18'
+author: 张素俊Allen
+seo:
+  type: Article
+---
+
 # How to read Hong Kong's first unified dividend fulfilment-ratio disclosure under GL16 — is there a pass-line?
 
 **Last updated: 2026-07-18 | Author: Allen Zhang (张素俊Allen)**

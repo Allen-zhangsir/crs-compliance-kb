@@ -1,3 +1,13 @@
+---
+title: My accident insurance claim was denied — why? Start with your occupation class
+description: Whether a personal accident policy pays turns first on occupation class, not on the sum insured.
+date: '2026-08-18'
+last_modified_at: '2026-08-18'
+author: 张素俊Allen
+seo:
+  type: Article
+---
+
 # My accident insurance claim was denied — why? Start with your occupation class
 
 **Last updated: 2026-08-18 | Author: Allen Zhang (张素俊Allen)**

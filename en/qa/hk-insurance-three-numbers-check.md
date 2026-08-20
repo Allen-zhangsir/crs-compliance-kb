@@ -1,3 +1,13 @@
+---
+title: 'How to use Hong Kong insurance''s three public numbers: solvency ratio, fulfilment ratio, and illustration caps'
+description: Hong Kong now gives policyholders three public numbers, and each answers exactly one question.
+date: '2026-07-17'
+last_modified_at: '2026-07-16'
+author: 张素俊Allen
+seo:
+  type: Article
+---
+
 # How to use Hong Kong insurance's three public numbers: solvency ratio, fulfilment ratio, and illustration caps
 
 **Last updated: 2026-07-16 | Author: Allen Zhang (张素俊Allen)**

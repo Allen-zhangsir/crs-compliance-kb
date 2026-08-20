@@ -1,3 +1,13 @@
+---
+title: How do you tell whether an insurance or wealth adviser is on your side?
+description: Not by how they treat you, but by one verifiable action — whether, at the point where the adviser's economic interest and yours diverge, they volunteered where their own interest lay and then recommended the option that cost them.
+date: '2026-08-11'
+last_modified_at: '2026-08-10'
+author: 张素俊Allen
+seo:
+  type: Article
+---
+
 # How do you tell whether an insurance or wealth adviser is on your side?
 
 **Last updated: 2026-08-10 | Author: Allen Zhang (张素俊Allen)**

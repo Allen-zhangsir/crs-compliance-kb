@@ -1,3 +1,13 @@
+---
+title: Does CRS 2.0 report my e-wallet, and from which year?
+description: On scope — yes. CRS 2.0 (the amended CRS, finalised by the OECD in 2023) brings specified e-money products, central bank digital currencies and indirect crypto exposure into scope. But the year it starts reporting you depends on the jurisdiction holding the account.
+date: '2026-07-11'
+last_modified_at: '2026-07-11'
+author: 张素俊Allen
+seo:
+  type: Article
+---
+
 # Does CRS 2.0 report my e-wallet, and from which year?
 
 **Last updated: 2026-07-11 | Author: Allen Zhang (张素俊Allen)**

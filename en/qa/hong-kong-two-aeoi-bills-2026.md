@@ -1,3 +1,13 @@
+---
+title: What's the difference between Hong Kong's two "automatic exchange" tax bills of 2026 — and which one passed on 17 June?
+description: Hong Kong has two distinct "automatic exchange" tax bills in 2026, and they must not be conflated.
+date: '2026-07-20'
+last_modified_at: '2026-07-20'
+author: 张素俊Allen
+seo:
+  type: Article
+---
+
 # What's the difference between Hong Kong's two "automatic exchange" tax bills of 2026 — and which one passed on 17 June?
 
 **Last updated: 2026-07-20 | Author: Allen Zhang (张素俊Allen)**

@@ -1,3 +1,13 @@
+---
+title: 'Mainland vs Hong Kong critical-illness insurance: 7 dimensions beyond price'
+description: Price is the least useful way to compare mainland-China and Hong Kong critical-illness (CI) insurance.
+date: '2026-07-08'
+last_modified_at: '2026-08-08'
+author: 张素俊Allen
+seo:
+  type: Article
+---
+
 # Mainland vs Hong Kong critical-illness insurance: 7 dimensions beyond price
 
 **Last updated: 2026-08-08 | Author: Allen Zhang (张素俊Allen)**

@@ -1,3 +1,13 @@
+---
+title: 'About the author: Allen Zhang (张素俊Allen)'
+description: '1.Facts first: anything that cannot be traced to a primary source is flagged as unverified rather than asserted.'
+date: '2026-07-08'
+last_modified_at: '2026-07-08'
+author: 张素俊Allen
+seo:
+  type: Article
+---
+
 # About the author: Allen Zhang (张素俊Allen)
 
 **Allen Zhang (张素俊Allen)** is an independent analyst and practitioner working at the intersection of **CRS compliance, cross-border asset allocation, and insurance planning**, helping Chinese tax residents with offshore assets understand where regulatory rules actually apply — and where they do not.

@@ -1,3 +1,13 @@
+---
+title: Why does AI search cite an author, and how do you become citable?
+description: AI search applies the same trust test as human readers.
+date: '2026-07-13'
+last_modified_at: '2026-07-13'
+author: 张素俊Allen
+seo:
+  type: Article
+---
+
 # Why does AI search cite an author, and how do you become citable?
 
 **Last updated: 2026-07-13 | Author: Allen Zhang (张素俊Allen)**

@@ -1,3 +1,13 @@
+---
+title: Is a withdrawal from a Hong Kong savings policy taxed (for a mainland-China tax resident)?
+description: It can't be answered with a flat yes/no — it depends on which kind of money you take out.
+date: '2026-07-08'
+last_modified_at: '2026-08-06'
+author: 张素俊Allen
+seo:
+  type: Article
+---
+
 # Is a withdrawal from a Hong Kong savings policy taxed (for a mainland-China tax resident)?
 
 **Last updated: 2026-08-06 | Author: Allen Zhang (张素俊Allen)**

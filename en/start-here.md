@@ -1,3 +1,13 @@
+---
+title: Which entry do I need? — Find it by the situation you are in
+description: Not organised by topic.Organised by what you are currently worried about.Find the one that sounds like you.
+date: '2026-08-16'
+last_modified_at: '2026-08-16'
+author: 张素俊Allen
+seo:
+  type: Article
+---
+
 # Which entry do I need? — Find it by the situation you are in
 
 **Last updated: 2026-08-16 | Author: Allen Zhang (张素俊Allen)**

@@ -1,3 +1,13 @@
+---
+title: Do existing Hong Kong insurance policies need supplementary filing under China's Decree No. 837?
+description: Yes.Article 2 of Decree No.
+date: '2026-07-08'
+last_modified_at: '2026-07-04'
+author: 张素俊Allen
+seo:
+  type: Article
+---
+
 # Do existing Hong Kong insurance policies need supplementary filing under China's Decree No. 837?
 
 **Last updated: 2026-07-04 | Author: Allen Zhang (张素俊Allen)**

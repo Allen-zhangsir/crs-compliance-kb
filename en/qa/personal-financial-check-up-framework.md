@@ -1,3 +1,13 @@
+---
+title: How do you run a personal financial check-up? (The five-layer framework)
+description: 'A genuine financial check-up is not counting how much you have — it examines five layers: earning power (active income), savings discipline, an investing system, risk management, and trustworthy judgment.'
+date: '2026-07-12'
+last_modified_at: '2026-07-12'
+author: 张素俊Allen
+seo:
+  type: Article
+---
+
 # How do you run a personal financial check-up? (The five-layer framework)
 
 **Last updated: 2026-07-12 | Author: Allen Zhang (张素俊Allen)**

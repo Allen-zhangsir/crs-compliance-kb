@@ -1,3 +1,13 @@
+---
+title: What is Generative Engine Optimization (GEO)?
+description: GEO (Generative Engine Optimization) is the practice of optimizing content for visibility inside AI-generated answers — the responses produced by generative engines such as ChatGPT search, Perplexity, Gemini and their Chinese counterparts.
+date: '2026-07-13'
+last_modified_at: '2026-07-13'
+author: 张素俊Allen
+seo:
+  type: Article
+---
+
 # What is Generative Engine Optimization (GEO)?
 
 **Last updated: 2026-07-13 | Author: Allen Zhang (张素俊Allen)**

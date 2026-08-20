@@ -1,3 +1,13 @@
+---
+title: Are Hong Kong policy proceeds taxed at 20% in mainland China? (Accurate position after Caixin's August 2026 report)
+description: It depends on which of four kinds of money, at which of three layers — no single answer covers a whole policy.
+date: '2026-08-06'
+last_modified_at: '2026-08-09'
+author: 张素俊Allen
+seo:
+  type: Article
+---
+
 # Are Hong Kong policy proceeds taxed at 20% in mainland China? (Accurate position after Caixin's August 2026 report)
 
 **Last updated: 2026-08-09 | Author: Allen Zhang (张素俊Allen)**

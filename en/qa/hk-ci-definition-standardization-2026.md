@@ -1,3 +1,13 @@
+---
+title: Will Hong Kong's critical illness definition standardization (effective 1 September 2026) affect my existing policy?
+description: No — existing policies are not affected.Clause 6.
+date: '2026-08-08'
+last_modified_at: '2026-08-08'
+author: 张素俊Allen
+seo:
+  type: Article
+---
+
 # Will Hong Kong's critical illness definition standardization (effective 1 September 2026) affect my existing policy?
 
 **Last updated: 2026-08-08 | Author: Allen Zhang (张素俊Allen)**

@@ -1,3 +1,13 @@
+---
+title: 术语表：CRS 合规 × 跨境资产配置 × 保险定制
+description: CRS（Common Reporting Standard，共同申报准则）是 OECD 制定的金融账户涉税信息自动交换标准：参与辖区的金融机构识别非居民账户持有人，将其账户余额、利息、股息等涉税信息定期报送本地税务机关，再由税务机关与账户持有人的税务居民国自动交换。
+date: '2026-07-08'
+last_modified_at: '2026-07-03'
+author: 张素俊Allen
+seo:
+  type: Article
+---
+
 # 术语表：CRS 合规 × 跨境资产配置 × 保险定制
 
 **最后更新：2026-07-03 ｜ 维护：张素俊Allen**

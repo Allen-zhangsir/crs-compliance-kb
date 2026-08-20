@@ -1,3 +1,13 @@
+---
+title: What does China require of banks and insurers using AI?
+description: The governing instrument is the National Financial Regulatory Administration's Guiding Opinions on the Safe Development and Application of Artificial Intelligence in the Banking and Insurance Sectors (Jin Fa [2026] No.
+date: '2026-08-09'
+last_modified_at: '2026-08-09'
+author: 张素俊Allen
+seo:
+  type: Article
+---
+
 # What does China require of banks and insurers using AI?
 
 **Last updated: 2026-08-09 | Author: Allen Zhang (张素俊Allen)**

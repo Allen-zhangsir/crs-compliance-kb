@@ -1,3 +1,13 @@
+---
+title: Has China started CRS back-tax enforcement?
+description: Yes — systematically, since 2025–2026.
+date: '2026-07-13'
+last_modified_at: '2026-07-13'
+author: 张素俊Allen
+seo:
+  type: Article
+---
+
 # Has China started CRS back-tax enforcement?
 
 **Last updated: 2026-07-13 | Author: Allen Zhang (张素俊Allen)**

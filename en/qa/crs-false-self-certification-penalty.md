@@ -1,3 +1,13 @@
+---
+title: What is the penalty for a false CRS self-certification in Hong Kong?
+description: You do not go to prison for the filing itself.
+date: '2026-07-11'
+last_modified_at: '2026-07-11'
+author: 张素俊Allen
+seo:
+  type: Article
+---
+
 # What is the penalty for a false CRS self-certification in Hong Kong?
 
 **Last updated: 2026-07-11 | Author: Allen Zhang (张素俊Allen)**

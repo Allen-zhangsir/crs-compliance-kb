@@ -1,3 +1,13 @@
+---
+title: What is the difference between China's outbound-investment filing and CRS reporting?
+description: They are two different gates.Filing governs the gate where money leaves China — the procedure you follow when remitting funds offshore to invest.
+date: '2026-07-08'
+last_modified_at: '2026-07-04'
+author: 张素俊Allen
+seo:
+  type: Article
+---
+
 # What is the difference between China's outbound-investment filing and CRS reporting?
 
 **Last updated: 2026-07-04 | Author: Allen Zhang (张素俊Allen)**

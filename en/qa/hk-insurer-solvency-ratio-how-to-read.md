@@ -1,3 +1,13 @@
+---
+title: Can you compare Hong Kong insurers by solvency ratio?
+description: No — not head-to-head. A solvency ratio is a relative measure, and Hong Kong switched to a risk-based capital regime on 1 July 2024, so the same insurer can lawfully report two different figures on the same day under two bases.
+date: '2026-07-14'
+last_modified_at: '2026-07-16'
+author: 张素俊Allen
+seo:
+  type: Article
+---
+
 # Can you compare Hong Kong insurers by solvency ratio?
 
 **Last updated: 2026-07-16 | Author: Allen Zhang (张素俊Allen)**

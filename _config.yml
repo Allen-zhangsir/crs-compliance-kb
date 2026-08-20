@@ -8,3 +8,13 @@ theme: minima
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+
+# 页面默认布局。2026-08-20 随 front matter 补齐一并加入：
+# 此前各 md 无 front matter，GitHub Pages 的 Jekyll 3.10 会自动按 page 布局渲染；
+# 一旦加了 front matter，未显式声明 layout 的页面会退化成"无布局"裸输出
+# （丢主题、丢页脚、丢 jekyll-seo-tag）。用 defaults 统一兜住，避免逐文件声明。
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "page"
