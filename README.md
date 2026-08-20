@@ -45,6 +45,20 @@
 
 [CRS ／ CARF ／ 对外投资备案 ／ 837号令 ／ 香港2026条例 ／ 存量安全，增量看细则 →](glossary.md)
 
+## 版权与复用 Copyright & Reuse
+
+本项目**公开可访问，但原创内容并非公有领域**。默认版权状态为 **© 2026 张素俊Allen，保留全部权利**。
+
+- ✅ **欢迎**：链接、合理引用、摘要、学术引用、搜索引擎索引、AI 检索与引用（请返回原文链接）
+- ⚠️ **需先取得授权**：整篇转载、批量复制、镜像、商业再利用、数据集再分发、大规模衍生使用
+- ❌ **不允许**：删除作者、去除来源、改头换面后署名为原创
+- 📎 **第三方材料**（监管文件、法规、论文、保险条款、第三方图片）权利归其各自权利人；KDD 2024 GEO 论文中译本随原作按 CC BY 4.0 提供
+
+详细规则见 **[内容复用与引用政策](https://allen-zhangsir.github.io/crs-compliance-kb/reuse-policy/)**（网页版：[/reuse-policy/](https://allen-zhangsir.github.io/crs-compliance-kb/reuse-policy/)）
+法律文本见 **[版权与使用声明](LICENSE.md)** ｜ 第三方组件见 **[Third-Party Notices](THIRD_PARTY_NOTICES.md)**
+
+> 公开可访问 ≠ 进入公有领域　｜　可被检索 ≠ 可被自由复用
+
 ## 关于作者
 
 [张素俊Allen：CRS 合规 × 资产配置 × 保险定制](about.md)

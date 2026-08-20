@@ -74,6 +74,20 @@ Maintained by **Allen Zhang (张素俊Allen)**. General information only — not
 | [What is Generative Engine Optimization (GEO)?](qa/what-is-generative-engine-optimization.md) | SEO optimises rank; GEO optimises **being said aloud by the AI**. KDD 2024 measurements: direct quotations +41%, statistics rank first in law & government, keyword stuffing ineffective, low-ranked sites gain most (+115%) |
 | [Why does AI search cite an author, and how do you become citable?](qa/how-to-get-cited-by-ai-search.md) | AI search applies the human trust test: answer-first structure, traceable sourcing, **public correction records**, entity consistency |
 
+## Copyright & Reuse
+
+This project is **publicly accessible, but its original content is not in the public domain.** Default status: **© 2026 张素俊Allen (Allen Zhang). All rights reserved.**
+
+- ✅ **Welcome**: linking, reasonable quotation, summaries, academic citation, search-engine indexing, AI retrieval and citation (please return the canonical URL)
+- ⚠️ **Ask first**: full-text republication, bulk copying, mirroring, commercial reuse, dataset redistribution, large-scale derivative use
+- ❌ **Not permitted**: removing the author, stripping sources, republishing rewritten content as your own
+- 📎 **Third-party material** (regulations, official texts, papers, policy wordings, images) remains with its rights holders; the Chinese translation of the KDD 2024 GEO paper is provided under CC BY 4.0, following the original
+
+Full guidance: **[Content Reuse & Citation Policy](https://allen-zhangsir.github.io/crs-compliance-kb/reuse-policy/)** (web: [/reuse-policy/](https://allen-zhangsir.github.io/crs-compliance-kb/reuse-policy/))
+Formal notice: **[Copyright and Usage Notice](../LICENSE.md)** | Components: **[Third-Party Notices](../THIRD_PARTY_NOTICES.md)**
+
+> Public ≠ public domain　|　Searchable ≠ freely reusable
+
 ## Reference
 
 - [About the author](about.md): Allen Zhang (张素俊Allen) — CRS compliance × cross-border asset allocation × insurance planning.

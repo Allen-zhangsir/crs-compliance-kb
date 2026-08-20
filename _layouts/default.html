@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+    <div class="wrapper" style="padding-top:0;padding-bottom:1.5rem;">
+      <p style="margin:0;font-size:.8125rem;line-height:1.6;color:#828282;">
+        © 2026 张素俊Allen. All rights reserved. ·
+        <a rel="license" href="{{ '/reuse-policy/' | relative_url }}">Reuse &amp; Citation Policy</a>
+      </p>
+    </div>
+
+  </body>
+
+</html>
