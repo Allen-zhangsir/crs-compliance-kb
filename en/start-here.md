@@ -80,6 +80,24 @@ Every entry does three things: **the answer sits in the first paragraph**, **key
 
 ---
 
+## 😟 I am moving back to China — what happens to my medical insurance?
+
+**You might be asking**: How long until my Chinese medical insurance works? / Will I be penalised for years abroad? / When should I enrol?
+
+**Start here** → [Returning after study abroad — how long until medical insurance pays?](qa/returnee-medical-insurance-waiting-period.md)
+> One line: **years uninsured abroad before 2025 do not count.** For most people the three-month wait comes from **landing outside the enrolment window**, not from years abroad — and that variable costs nothing to fix.
+
+---
+
+## 😟 Someone gave me a figure and I do not know whether to trust it
+
+**You might be asking**: Can I trust my agent's numbers? / Are the brochure figures real? / Are comparison sites accurate?
+
+**Start here** → [How do I check an insurance figure someone gave me?](qa/how-to-verify-an-insurance-number.md)
+> One line: **a product brochure is insurer-issued, but it is not the contract.** Clause numbers and effective dates live only in the policy provisions — that is the three-second test.
+
+---
+
 ## 😟 I am not sure this adviser is on my side
 
 **You might be asking**: How do I know if my broker is trustworthy? / Are they just after the commission? / Does the recommendation suit me or them?

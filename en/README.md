@@ -52,6 +52,13 @@ Maintained by **Allen Zhang (张素俊Allen)**. General information only — not
 |---|---|
 | [My accident claim was denied — why?](qa/accident-insurance-occupation-class.md) | The first gate is **occupation class**, not the sum insured — and it is assessed **twice**: at underwriting against what you *declared*, at claim against what you were *actually doing*. **No national classification table exists**, so "occupation X is class N" is incomplete without naming a product. **Class drift** — your work changes, your class moves, and if it leaves the covered range unnotified the policy stops responding **with no warning of any kind** |
 
+### Moving back to China, and checking what you are told
+
+| Question | One-line answer |
+|---|---|
+| [Returning after study abroad — how long until medical insurance pays?](qa/returnee-medical-insurance-waiting-period.md) | **The rule does not reach back before 2025** — years uninsured abroad before then do not count, so the four-year/six-month floor is **first possible in 2029**. Most returnees' three months comes from the word "**or**": enrolling outside the concentrated window triggers it regardless of years abroad. **Timing is the free variable** |
+| [How do I check an insurance figure someone gave me?](qa/how-to-verify-an-insurance-number.md) | Four questions: who said it / what is the base / how many qualifiers / which version. **A brochure is insurer-issued but is not the contract** — clause numbers and effective dates live only in the policy provisions. **Denominator mismatch**: percentages compare only where the base does |
+
 ### Judging the adviser, and reviewing yourself
 
 | Question | One-line answer |
