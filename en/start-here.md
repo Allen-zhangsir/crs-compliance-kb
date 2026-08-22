@@ -96,6 +96,13 @@ Every entry does three things: **the answer sits in the first paragraph**, **key
 **Start here** → [How do I check an insurance figure someone gave me?](qa/how-to-verify-an-insurance-number.md)
 > One line: **a product brochure is insurer-issued, but it is not the contract.** Clause numbers and effective dates live only in the policy provisions — that is the three-second test.
 
+
+**Also here** → [Is that comparison table comparing the product I am buying?](qa/product-comparison-table-version-check.md)
+> One line: **the table lists a brand; you buy a version.** Two figures settle it — annual premium and benefit term.
+
+**And one more** — the column that table does not have → [Is my insurance premium guaranteed?](qa/is-my-insurance-premium-guaranteed.md)
+> One line: **"annual premium × payment term = total outlay" holds only where the rate is guaranteed.** Where it is not, that figure is a **first-year price, not a long-run cost**. Look in two places: a field in the first-page summary, and the numbered footnotes.
+
 ---
 
 ## 😟 I am not sure this adviser is on my side
