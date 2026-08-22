@@ -68,6 +68,39 @@ The two are different in kind — **guaranteed returns are the contractual floor
 
 **What to do**: check the **issue date** of the illustration; the more recent one reflects current assumptions.
 
+## Measured: six comparable products, three agree and three do not
+
+The following is one measured set, offered to show how the check above behaves on real documents. **Six comparable protection products on sale, on identical parameters** (age 35 / male / non-smoker / USD / same sum insured / 25-year premium term), **one insurer illustration each**, checked against a widely circulated comparison table covering the same products. Products are referred to by code A–F; none is named.
+
+**Premiums are given as an index (lowest = 1.000). No absolute amounts.**
+
+| Code | Annual premium index | Deviation from the circulated table |
+|---|---|---|
+| **B** | **1.000** | **< 0.1% (agrees)** |
+| **E** | 1.031 | **< 0.1% (agrees)** |
+| **A** | 1.044 | **< 0.1% (agrees)** |
+| **D** | 1.163 | **+10.6%** |
+| **C** | 1.233 | **−3.2%** |
+| **F** | 1.242 | **+7.8%** |
+
+**Spread across the set: the highest is 24.2% above the lowest.**
+
+⚠️ **The index of 25-year cumulative premiums is identical to the table above** (it is the annual premium × 25). **That is not a second data point** — restating one set of figures in another unit is a common variant of denominator mismatch.
+
+### What the pattern shows
+
+**Three agree to within 0.1%; three deviate by 3%–11%. And the two groups fall out cleanly.**
+
+Had the circulated table simply been computed wrongly, the error would be distributed randomly across all six. It would not produce three exact matches and three systematic deviations. **The shape of the distribution is itself the evidence**: the table is **accurate for the versions it covers**, and the three deviating entries are **different versions within the same named series**.
+
+One product carries the clearest evidence: its illustration's full name ends in a **numeric suffix** (denoting cover to that age), while the corresponding row in the circulated table shows a premium about **10.6% lower and a benefit ceiling 15 years shorter**. **These are the same fact** — the cheaper figure belongs to the shorter-term version of the series.
+
+**The conclusion is not "that table is unreliable" but that a brand name does not identify a product: the table lists a brand; you buy a version.**
+
+### The return figures behave the same way
+
+Guaranteed and projected returns — already percentages, requiring no conversion — fall into the same grouping: **B / E / A agree on all four figures to one decimal place; C / D / F deviate together.** The products whose premiums agree are the products whose returns agree — **which further rules out transcription error**, since transcription error does not group.
+
 ## Two general traps
 
 ### Trap one: the most prominent figure is often not the comparable one

@@ -76,6 +76,51 @@ Some illustrations show a bottom-line "total annual premium payable" that is **a
 
 **A promotion can be withdrawn; a contractual right cannot.** Wording such as "eligible promotion" or "limited-time offer" is a different thing from a guarantee in the policy.
 
+## Measured: six comparable products, five verifiable, one guaranteed
+
+The same measured set (six comparable protection products on sale, identical parameters, one insurer illustration each, coded A–F, none named). **On this item the detection rate was 5/6.**
+
+| Code | Rate guaranteed? | Illustration wording | Where it sits |
+|---|---|---|---|
+| **E** | **Guaranteed** | "Guaranteed premium: **Yes**" | **A dedicated field in the first-page benefit summary** |
+| F | Not guaranteed | "the premium rate is not guaranteed; the Company reserves the right to **review and adjust the premium rate at each policy anniversary**." | Numbered footnote |
+| B | Not guaranteed | "the premium rate of the basic plan is not guaranteed; the Company may vary it from time to time **owing to policy experience, for example claims experience**." | Numbered footnote |
+| C | Not guaranteed | "the Company reserves the right to review the premium rate at each policy anniversary and to **adjust uniformly the premium rates of a specified risk class** accordingly." | Numbered footnote |
+| D | Not guaranteed | "the premium of this basic policy is **not guaranteed to remain unchanged**; we reserve the right to review and adjust it from time to time." | Numbered footnote |
+| A | **[unverified]** | No corresponding statement detected | — |
+
+**A is left blank**: the text layer of that document carries encoding faults. **Not detected does not mean not present**, so no conclusion is drawn and no other product's wording is used to fill the gap.
+
+### Four sentences must be read across, not down
+
+The four non-guaranteed statements **differ from one another, and each discloses only one facet of the reserved right**:
+
+- **F** gives the **frequency**: "at each policy anniversary" — i.e. annually
+- **B** gives the **trigger**: "owing to policy experience, for example **claims experience**"
+- **C** gives the **method**: "**adjust uniformly** … a specified **risk class**" — by class, not by individual policy
+- **D** gives only the **indeterminacy**: "**from time to time**"
+
+**No single illustration is complete.** Only reading across yields the full shape of the right: **exercisable annually, on grounds including claims experience, applied across a risk class.**
+
+⚠️ **C's word "uniformly" is information favourable to the policyholder** — repricing applies to a whole risk class and is **not directed at an individual policy following its own claims**. Only one of the four states this. It is lost if the sentence is not read word by word.
+
+### The systematic difference in placement
+
+**The single guaranteed product puts the fact in a dedicated field on page one. All four non-guaranteed products put it in a numbered footnote.**
+
+Both are compliant disclosures. **What differs is not the fact but the probability that a reader encounters it.**
+
+### First-year concessions distort the "total outlay" figure
+
+The same set contained two concessions applying **to the first policy year only**, running in opposite directions but distorting comparison alike:
+
+| Code | Concession | Effect |
+|---|---|---|
+| **E** | **6% premium discount in the first policy year** | The largest, lowest-placed "total" figure in the document is the **discounted** one; the comparable figure is the ongoing premium |
+| **A** | **24% of the first year's premium rebated in the second policy year** | Actual 25-year outlay is below the nominal figure |
+
+⚠️ **Both are stated to be promotions rather than rights under the policy** — a different issue date may not carry them. **A promotion and a contractual right are not the same thing.**
+
 ## FAQ
 
 **Q1: If the premium is not guaranteed, will it definitely rise?**

@@ -85,6 +85,64 @@ The first sits prominently in the benefit summary; the second in the notes or th
 
 **Remembering only the first overstates the cover in the later years.**
 
+## Measured: six comparable products, no two alike on the five
+
+The same measured set (six comparable protection products on sale, identical parameters, one insurer illustration each, coded A–F, none named). **On this item all six were detected.**
+
+Set out below are the **three places where the products run in opposite directions** — these show best why the item must be checked document by document. **The complete six-by-five table is outside the scope of this entry**; what follows is the conclusion together with the evidence supporting it.
+
+### One: whether a death benefit survives — a difference of kind
+
+| Code | Illustration wording |
+|---|---|
+| **A** | "following payment of the severe illness benefit, **the death benefit will be equal to 20% of the sum insured**" |
+| **C** | "after the severe illness benefit has been paid and/or becomes payable, … the plan **will not provide the death benefit**, the early critical illness premium waiver, the early severe illness benefit, the intensive care benefit, the parent-child premium waiver **or the surrender value**" |
+| **E** | "once we have paid the critical illness benefit or the level-two intensive care benefit, we **will not pay any guaranteed cash value, maturity benefit or death benefit**" |
+| **D** | during the 2nd-to-5th claim period, death is met by a **compassionate benefit** "equal to **5%** of the original sum insured" |
+| **F** | the death benefit "**applies only where**" cumulative claims do not exceed the benefit limit, and "**once this benefit becomes payable, the policy will terminate**" |
+| **B** | "first severe illness benefit / death benefit" appears as **a single line**, payable one way or the other |
+
+**Not a difference of degree but four structures**: a fixed residual proportion (A: 20% of the sum insured) / a compassionate payment (D: 5% of the original sum insured) / not provided (C, E) / two outlets of one limit (B, F).
+
+⚠️ **Not to be read as "retaining a death benefit is better"**: A pays its severe illness benefit **once only**, whereas C, E and F all carry subsequent multiple claims. **Where the residual is directed — toward death cover or toward further illness cover — is a design trade-off, not a quality gradient.**
+
+### Two: after a partial claim, the premium moves in opposite directions
+
+| Code | Illustration wording | Result |
+|---|---|---|
+| **D** | "the current sum insured will be reduced by the advance benefits paid, and **the premium**, the guaranteed cash value, any future annual dividend and any future terminal dividend **will be reduced accordingly**" | Sum insured falls, premium follows |
+| **E** | "the guaranteed cash value (if any) will also be reduced proportionately. **However, the premium will not be reduced by reason of any critical illness benefit already paid.**" | Sum insured falls, **premium does not** |
+
+**"However" carries the whole sentence.** Under E's structure, between a minor-condition claim and the severe-illness claim that triggers full waiver, **the policyholder pays the original premium on a reduced sum insured**.
+
+**One event, two outcomes, both compliant and both disclosed.** Neither appears on any product comparison table.
+
+### Three: whether the limit reduces one way only, or can be restored
+
+**Five of the six reduce in one direction only. One carries restoration:**
+
+> "if the early critical illness benefit and/or the child protection benefit has been paid or is payable, the insured may, **one year or more thereafter and before the policy anniversary at age 70**, have up to **100% of the original sum insured restored**."
+
+Three qualifiers must be read together: **trigger** (specified claim categories, not all claims), **waiting period** (one year), **age ceiling** (70).
+
+**Its significance is not that this product is better, but that it proves the one-directional reduction is a design choice rather than an industry given.** A choice is something a buyer may reasonably ask about.
+
+### Future premiums: five disclose a waiver, on two classes of trigger
+
+| Triggered by | Codes |
+|---|---|
+| **The severe-illness claim itself** | A, C, E |
+| **Cumulative claims reaching 100% of the original / basic sum insured** | D, F |
+| **Not detected** | B ([unverified]; no other product's wording used to fill it) |
+
+**This difference shows in the interval after a minor-condition claim but before a severe-illness claim.** Read together with point two it gives the complete picture: on the same facts — one minor-condition claim paid — D's premium has already fallen with the current sum insured, E's has not, and neither has yet triggered full waiver.
+
+### The age ceiling on subsequent cover is not the base plan's term
+
+Five products cap subsequent multiple claims at **age 85 or 86**, while the base benefit term of those products is whole of life or to age 100.
+
+**Two figures on one document**: the first sits prominently in the benefit summary, the second in the notes or the multiple-claim section. **Remembering only the first overstates the cover in the later years.**
+
 ## FAQ
 
 **Q1: Does the policy simply lapse after a claim?**
