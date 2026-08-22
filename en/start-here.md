@@ -103,6 +103,9 @@ Every entry does three things: **the answer sits in the first paragraph**, **key
 **And one more** — the column that table does not have → [Is my insurance premium guaranteed?](qa/is-my-insurance-premium-guaranteed.md)
 > One line: **"annual premium × payment term = total outlay" holds only where the rate is guaranteed.** Where it is not, that figure is a **first-year price, not a long-run cost**. Look in two places: a field in the first-page summary, and the numbered footnotes.
 
+**And a third** — for after the claim, not before it → [What remains of a critical illness policy after it has paid?](qa/what-remains-after-a-critical-illness-claim.md)
+> One line: **a claim is not the end of the contract; it is where the contract changes shape and carries on.** One claim alters five things at once — future premiums, death benefit, cash value, terminal dividend, subsequent cover. **None is on a comparison table**; look in the termination clause near the back.
+
 ---
 
 ## 😟 I am not sure this adviser is on my side
