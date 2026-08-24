@@ -56,6 +56,27 @@ A3: Coverage runs from products issued since 2010; very new products have short 
 - Illustration caps 6.0% (HKD) / 6.5% (non-HKD) since 1 July 2025: HKIA Practice Note via circular of 28 February 2025.
 - Insurers' own official disclosure pages are the primary data source; this entry cites no individual insurer's figures and evaluates no company.
 
+
+---
+
+## What next
+
+**This entry cannot make the decision for you** — it gives you a method for checking and a basis for judging. If it leaves you clearer that you need do nothing, it has done its job.
+
+If you are still unsure which situation you are in, you can ask me directly.
+
+| What I can take on | What I cannot |
+|---|---|
+| **Mainland China insurance** — I hold a mainland insurance broker licence | **Arranging a Hong Kong policy** — I am not licensed for Hong Kong insurance, and even a Hong Kong licence would not permit selling to mainland residents |
+| **CRS compliance and cross-border structure review** | **Tax agency or filing on your behalf** — engage a licensed tax agent |
+| **Reviewing and diagnosing policies you already hold** (including Hong Kong policies — **review and diagnosis only, no sale, no agency**) | **Legal opinions** — engage a practising lawyer |
+
+**One premise, stated up front**: a diagnosis is **not carried out for the purpose of prompting any insurance purchase**. If the conclusion is that your existing cover needs no change, I will say so. If there is a genuine gap, I will describe the gap itself — **whether to act on it, and with whom, is yours to decide**.
+
+WeChat: **AllenSuJun0308** — mention "KB·gl16-fulfilment-ratio" and I will know which entry you read, so we can pick up from there.
+
+*(Where the line falls: if a question can be answered in a line or two, I answer it, no charge. Work that requires reviewing your actual documents and producing written conclusions is a paid engagement, with the deliverables agreed beforehand.)*
+
 ---
 
 *General information only; not insurance, legal, or investment advice. Consult licensed professionals for individual cases.*

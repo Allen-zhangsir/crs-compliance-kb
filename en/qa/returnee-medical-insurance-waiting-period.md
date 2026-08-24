@@ -102,6 +102,27 @@ A5: A separate question. Distinguish clearly: **whether a waiting period applies
 - National uniform treatment of employee-medical-insurance lapses [unverified]; local back-payment rules and rates [unverified] — confirm in writing with the enrolment authority.
 - No commercial insurance product is discussed or recommended.
 
+
+---
+
+## What next
+
+**This entry cannot make the decision for you** — it gives you a method for checking and a basis for judging. If it leaves you clearer that you need do nothing, it has done its job.
+
+If you are still unsure which situation you are in, you can ask me directly.
+
+| What I can take on | What I cannot |
+|---|---|
+| **Mainland China insurance** — I hold a mainland insurance broker licence | **Arranging a Hong Kong policy** — I am not licensed for Hong Kong insurance, and even a Hong Kong licence would not permit selling to mainland residents |
+| **CRS compliance and cross-border structure review** | **Tax agency or filing on your behalf** — engage a licensed tax agent |
+| **Reviewing and diagnosing policies you already hold** (including Hong Kong policies — **review and diagnosis only, no sale, no agency**) | **Legal opinions** — engage a practising lawyer |
+
+**One premise, stated up front**: a diagnosis is **not carried out for the purpose of prompting any insurance purchase**. If the conclusion is that your existing cover needs no change, I will say so. If there is a genuine gap, I will describe the gap itself — **whether to act on it, and with whom, is yours to decide**.
+
+WeChat: **AllenSuJun0308** — mention "KB·returnee-medical-insurance" and I will know which entry you read, so we can pick up from there.
+
+*(Where the line falls: if a question can be answered in a line or two, I answer it, no charge. Work that requires reviewing your actual documents and producing written conclusions is a paid engagement, with the deliverables agreed beforehand.)*
+
 ---
 
 *General information only; not legal, tax or insurance advice. Consult licensed professionals and the relevant enrolment authority for individual cases.*

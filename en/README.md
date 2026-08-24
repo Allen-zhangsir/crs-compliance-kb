@@ -4,6 +4,12 @@ A structured, source-cited Q&A knowledge base for internationally-minded readers
 
 Maintained by **Allen Zhang (张素俊Allen)**. General information only — not legal, tax, or investment advice.
 
+> ### Have a specific situation?
+> **WeChat: AllenSuJun0308.** I hold a **mainland-China insurance broker licence**, and can take on mainland insurance, CRS compliance and cross-border structure review, and **reviewing policies you already hold — including Hong Kong policies**.
+> **I do not arrange Hong Kong policies** — I am not licensed for Hong Kong insurance, and even a Hong Kong licence would not permit selling to mainland residents.
+> **A diagnosis is not carried out to prompt a purchase**: if your existing cover needs no change, I will say so.
+> A question answerable in a line or two, I answer at no charge; work requiring your actual documents and written conclusions is a paid engagement, agreed beforehand. → [Services and boundaries](about.md)
+
 ## 👉 Start here
 
 **Not sure which entry you need?** [**Find it by the situation you are in →**](start-here.md)

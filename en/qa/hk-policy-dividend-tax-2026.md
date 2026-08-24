@@ -95,13 +95,34 @@ A4: Documentation and splitting — premium payment histories, dividend declarat
 - Individual Income Tax Law of the PRC, Article 3 (20% proportional rate) and Article 4(5) (insurance indemnities exempt) — primary.
 - MOF/STA Announcement No. 74 of 2019, Art. 5(3): repeal of Guoshuihan [1998] No. 546 — primary.
 - Caixin, "Exclusive: Taxation of Overseas Income — Collection on Insurance Proceeds Has Begun," 5 August 2026 (finance.caixin.com/2026-08-05/102471513.html) — an exclusive report by an authoritative financial outlet and therefore a **secondary source**. The Beijing/Hangzhou cases, the 20% rate, "not yet general practice" and "no clear standard" all derive from that report and are not confirmed by any published regulatory document.
-- Market data (5 Aug London: Prudential −13% intraday, HSBC and Standard Chartered each c. −7%; 6 Aug Hong Kong morning: AIA −8.2%, Hang Seng briefly −2%) — cross-referenced across Sing Tao Headline, HK01, Yicai and Eastmoney.
+- Market data (5 Aug London: a UK-listed insurance group operating in Hong Kong −13% intraday, two UK banks each c. −7%; 6 Aug Hong Kong morning: another Hong Kong-listed insurance group −8.2%, Hang Seng briefly −2%) — cross-referenced across Sing Tao Headline, HK01, Yicai and Eastmoney. **Company names are withheld here under this site's licensing-boundary policy**: the point is that the market reaction that day was sharp, which does not depend on which companies they were; readers can verify by date.
 - The Citi view is reported via media and constitutes brokerage research opinion, not a regulatory position.
 - Hong Kong Insurance Authority response of 6 Aug 2026 (two sentences): consistently reported by Yicai (exclusive), National Business Daily, Sina Finance and Wen Wei Po; Securities Times on-the-ground check of 6 Aug 2026. English rendering is a translation of the Chinese original, not an official English text.
 - 2024 mainland-visitor new-office premiums HK$62.8bn / 28.6% share; total long-term new-office premiums HK$219.8bn: HKIA provisional statistics for 2024.
 - The legal analysis of dividends (surplus distribution vs shareholder profit distribution) is the author's professional judgment under contract and tax-law frameworks, not an official characterisation.
 - **The certainty-gradient ordering, and the three structural reasons why prepaid-premium interest requires the least interpretation (identifiable principal / typically guaranteed / already applied against premium), are likewise the author's professional judgment, not official characterisation.** No unified national instrument characterises the four items individually as at this entry's update date; the mechanics, accrual basis and debit rules of prepaid-premium arrangements vary by policy. This entry names no insurer and quotes no rate or product condition.
 - Case-level standards, limitation-period application, and the timing of any unified rule are all [unverified — pending official documents].
+
+
+---
+
+## What next
+
+**This entry cannot make the decision for you** — it gives you a method for checking and a basis for judging. If it leaves you clearer that you need do nothing, it has done its job.
+
+If you are still unsure which situation you are in, you can ask me directly.
+
+| What I can take on | What I cannot |
+|---|---|
+| **Mainland China insurance** — I hold a mainland insurance broker licence | **Arranging a Hong Kong policy** — I am not licensed for Hong Kong insurance, and even a Hong Kong licence would not permit selling to mainland residents |
+| **CRS compliance and cross-border structure review** | **Tax agency or filing on your behalf** — engage a licensed tax agent |
+| **Reviewing and diagnosing policies you already hold** (including Hong Kong policies — **review and diagnosis only, no sale, no agency**) | **Legal opinions** — engage a practising lawyer |
+
+**One premise, stated up front**: a diagnosis is **not carried out for the purpose of prompting any insurance purchase**. If the conclusion is that your existing cover needs no change, I will say so. If there is a genuine gap, I will describe the gap itself — **whether to act on it, and with whom, is yours to decide**.
+
+WeChat: **AllenSuJun0308** — mention "KB·hk-policy-dividend" and I will know which entry you read, so we can pick up from there.
+
+*(Where the line falls: if a question can be answered in a line or two, I answer it, no charge. Work that requires reviewing your actual documents and producing written conclusions is a paid engagement, with the deliverables agreed beforehand.)*
 
 ---
 

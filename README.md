@@ -10,6 +10,12 @@
 
 **Products are not avoided here — they are discussed differently.** Sales reasons backwards from a conclusion. These entries set out the facts first, **including the parts that argue against a purchase**, and let you reach your own conclusion — which will sometimes be *"you need do nothing."* Every entry cites the clause so you can check the original. Maintained by Allen Zhang (张素俊Allen).
 
+> ### 有具体情况想问？
+> **微信 AllenSuJun0308**。我持**内地保险经纪牌照**，可承接内地保险、CRS 合规与跨境资产结构梳理、**存量保单（含已持有的香港保单）的核对与诊断**。
+> **不承接香港保单的投保安排**——我不具备香港保险销售资质，即便持有亦无资格向内地居民销售。
+> **诊断结论不以促成购买为目的**：若你现有保单无需调整，我会如实告知。
+> 一两句能答清的问题直接答、不收费；需要看资料出书面结论的才是收费服务，事前说清交付什么。→ [服务与边界](about.md)
+
 ## 👉 先从这里开始
 
 **不知道该看哪一条？** [**按你现在担心的事情找答案 →**](start-here.md)
