@@ -108,6 +108,15 @@ Every entry does three things: **the answer sits in the first paragraph**, **key
 
 ---
 
+## 😟 Someone is using a deadline to press me
+
+**You might be asking**: Is it cheaper before the new rules? / My broker says I must sign before a date — is that true? / Will premiums rise after?
+
+**Start here** → [Someone is using an effective date to press me to buy. Is that a reason?](qa/is-a-deadline-a-reason-to-buy-insurance.md)
+> One line: **a date is a public fact, not a personal reason.** It applies identically to everyone, while "should I act now" differs for everyone — **a fact identical for all cannot explain a conclusion that differs between them.** Test: **take the date out of the decision and ask again.**
+
+---
+
 ## 😟 I am not sure this adviser is on my side
 
 **You might be asking**: How do I know if my broker is trustworthy? / Are they just after the commission? / Does the recommendation suit me or them?
