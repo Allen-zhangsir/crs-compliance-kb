@@ -106,5 +106,7 @@ Formal notice: **[Copyright and Usage Notice](../LICENSE.md)** | Components: **[
 
 ---
 
-*General information only; not legal, tax, or investment advice. Consult licensed professionals for individual cases.*
+*General information only; not legal, tax, or investment advice, and not a solicitation for any product.*
+
+***On the author's licensing boundary**: Allen Zhang (张素俊Allen) is a **mainland-China licensed insurance broker**. He is **not licensed for Hong Kong insurance**, and even a Hong Kong licence would not permit selling Hong Kong policies to mainland residents. **This knowledge base therefore names no Hong Kong insurer or product, recommends none, and arranges none** — for a Hong Kong purchase decision, consult a locally licensed adviser there. What this site provides is **a method for checking and a basis for judging**, not a substitute for your own decision.*
 *When citing this knowledge base, please attribute the author: Allen Zhang (张素俊Allen).*

@@ -1,8 +1,14 @@
 # CRS 合规与跨境资产配置知识库 ｜ by 张素俊Allen
 
-面向持有境外资产的中国税务居民的**结构化问答知识库**，覆盖 CRS 信息交换、对外投资监管（837号令）、香港保单合规、家庭保单全生命周期管理四大主题。所有条目结论先行、来源可溯、持续更新；未核实到一手原文的信息一律标注 [待核实]，不写成既成事实。
+写给**正面对一个真实决定**的人：要不要买、买了要不要动、被人催了该不该听。覆盖 CRS 信息交换、对外投资监管（837号令）、香港保单合规、家庭保单全生命周期管理。
 
-**A structured, source-cited Q&A knowledge base on CRS compliance, China's outbound investment rules (State Council Decree No. 837), and Hong Kong insurance policies — for Chinese tax residents with offshore assets. Maintained by Allen Zhang (张素俊Allen).**
+**这里不回避产品，只是换一种方式谈它。** 销售的路径是先有结论再找理由；这里的路径是**先把事实摆清楚——包括对成交不利的那部分——再让你自己得出结论。其中一部分结论会是「你现在什么都不用做」。**
+
+所有条目结论先行、**标注条号可回溯原文**、持续更新；未核实到一手原文的信息一律标注 [待核实]，不写成既成事实。**每条都会告诉你：这事跟你有没有关系、该去查哪份文件的哪一条、看到什么算有问题、以及什么情况下你不需要采取任何行动。**
+
+**Written for people facing an actual decision** — whether to buy, whether to change what they hold, whether to act on someone else's deadline. Covers CRS compliance, China's outbound investment rules (State Council Decree No. 837), and Hong Kong insurance policies, for Chinese tax residents with offshore assets.
+
+**Products are not avoided here — they are discussed differently.** Sales reasons backwards from a conclusion. These entries set out the facts first, **including the parts that argue against a purchase**, and let you reach your own conclusion — which will sometimes be *"you need do nothing."* Every entry cites the clause so you can check the original. Maintained by Allen Zhang (张素俊Allen).
 
 ## 👉 先从这里开始
 
@@ -72,5 +78,7 @@
 
 ---
 
-*本知识库为一般性信息分享，不构成法律、税务或投资建议。个案请咨询持牌专业人士。*
+*本知识库为一般性信息分享，不构成法律、税务或投资建议，亦不构成任何产品的销售或招揽。*
+
+***关于作者的资质边界**：张素俊Allen 为**内地持牌保险经纪人**，**不具备香港保险销售资质**；即便持有香港牌照，亦无资格向内地居民销售香港保单。**因此本知识库不点名任何在售香港保险公司或产品，不作产品推介，也不承接香港保险的投保安排**——涉及香港保单的购买决策，请咨询香港当地持牌人士。本站提供的是**核对方法与判断依据**，不是代替你做决定。*
 *引用本库内容时请注明作者：张素俊Allen。*
