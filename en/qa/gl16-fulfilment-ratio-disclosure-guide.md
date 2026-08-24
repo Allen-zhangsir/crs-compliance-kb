@@ -57,6 +57,16 @@ A3: Coverage runs from products issued since 2010; very new products have short 
 - Insurers' own official disclosure pages are the primary data source; this entry cites no individual insurer's figures and evaluates no company.
 
 
+
+---
+
+## When you need do nothing
+
+You already hold the policy and are not considering switching or adding — **understanding it is enough; there is nothing to do**.
+
+**Where this entry works against my own interest**: Fulfilment ratios are **historical and do not predict the future**. A series shorter than five years **cannot be judged** — that is not an accusation of deficiency, it is pricing the uncertainty honestly. **A flattering ratio table cannot tell you whether the policy suits you.**
+
+
 ---
 
 ## What next
@@ -73,11 +83,24 @@ If you are still unsure which situation you are in, you can ask me directly.
 
 **One premise, stated up front**: a diagnosis is **not carried out for the purpose of prompting any insurance purchase**. If the conclusion is that your existing cover needs no change, I will say so. If there is a genuine gap, I will describe the gap itself — **whether to act on it, and with whom, is yours to decide**.
 
-WeChat: **AllenSuJun0308** — mention "KB·gl16-fulfilment-ratio" and I will know which entry you read, so we can pick up from there.
+**What happens if you do contact me** (stated up front, so you are not guessing):
 
-*(Where the line falls: if a question can be answered in a line or two, I answer it, no charge. Work that requires reviewing your actual documents and producing written conclusions is a paid engagement, with the deliverables agreed beforehand.)*
+| Step | What you get |
+|---|---|
+| ① You describe the situation | I first decide whether this **warrants a fee at all** — answerable in a line or two, I answer it there, no charge |
+| ② If it needs real work | I set out **which documents you will receive**. If I cannot state the deliverables, I do not quote |
+| ③ You send materials | Against a list. Anything missing, I say so upfront — no items added midway |
+| ④ Delivery | **In writing**, not a verbal conclusion — a verbal one you cannot keep, and cannot check |
+| ⑤ Afterwards | **You still reach me, personally. Not handed off, not reassigned.** I am not a team; that is both the limit and the reason you know who to ask |
+
+**You can check where the facts came from**: every conclusion here cites a **clause number** — you are welcome to disbelieve me and read the original. **One correction, propagated everywhere**: if I correct a fact, this entry, the Chinese version, and the LinkedIn piece all change together. No two versions of the same fact.
+
+WeChat: **AllenSuJun0308** — mention "KB·gl16-fulfilment-ratio" and I will know which entry you read, so we can pick up from there.
 
 ---
 
-*General information only; not insurance, legal, or investment advice. Consult licensed professionals for individual cases.*
+*General information only; not insurance, legal, or investment advice.*
+*For **arranging a Hong Kong policy**, consult a locally licensed adviser there — I am not licensed for Hong Kong insurance and do not take this on.*
+*For **filing, back taxes, or disputes**, this must be confirmed by a licensed tax agent, a lawyer, or the tax authority.*
+*Otherwise — **mainland insurance, CRS compliance review, or checking a policy you already hold** — you can ask me directly.*
 *Author: Allen Zhang (张素俊Allen) | [About](../about.md) | [English home](../README.md) | [中文版](../../qa/gl16-fulfilment-ratio-disclosure-guide.md)*

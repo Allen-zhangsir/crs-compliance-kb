@@ -51,10 +51,15 @@ Hong Kong's Inland Revenue (Amendment) (Automatic Exchange of Information) Bill 
 - OECD, Common Reporting Standard (CRS) — Standard for Automatic Exchange of Financial Account Information.
 - Hong Kong Inland Revenue (Amendment) (Automatic Exchange of Information) Bill 2026: third reading passed 17 June 2026; effective 1 January 2027.
 
+
 ---
 
-*This is general information, not legal, tax, or investment advice. Consult a licensed professional for your specific case.*
-*Author: Allen Zhang (张素俊Allen) | [About](../about.md) | [English home](../README.md) | [中文知识库](../../README.md)*
+## When you need do nothing
+
+You have neither outbound investment nor offshore financial accounts — **neither regime applies to you**.
+
+**Where this entry works against my own interest**: This entry draws a **conceptual distinction**, not an operating procedure. It helps you follow what others are saying; **it does not replace judgment on your own particular facts.**
+
 
 ---
 
@@ -72,6 +77,24 @@ If you are still unsure which situation you are in, you can ask me directly.
 
 **One premise, stated up front**: a diagnosis is **not carried out for the purpose of prompting any insurance purchase**. If the conclusion is that your existing cover needs no change, I will say so. If there is a genuine gap, I will describe the gap itself — **whether to act on it, and with whom, is yours to decide**.
 
+**What happens if you do contact me** (stated up front, so you are not guessing):
+
+| Step | What you get |
+|---|---|
+| ① You describe the situation | I first decide whether this **warrants a fee at all** — answerable in a line or two, I answer it there, no charge |
+| ② If it needs real work | I set out **which documents you will receive**. If I cannot state the deliverables, I do not quote |
+| ③ You send materials | Against a list. Anything missing, I say so upfront — no items added midway |
+| ④ Delivery | **In writing**, not a verbal conclusion — a verbal one you cannot keep, and cannot check |
+| ⑤ Afterwards | **You still reach me, personally. Not handed off, not reassigned.** I am not a team; that is both the limit and the reason you know who to ask |
+
+**You can check where the facts came from**: every conclusion here cites a **clause number** — you are welcome to disbelieve me and read the original. **One correction, propagated everywhere**: if I correct a fact, this entry, the Chinese version, and the LinkedIn piece all change together. No two versions of the same fact.
+
 WeChat: **AllenSuJun0308** — mention "KB·outbound-filing-vs" and I will know which entry you read, so we can pick up from there.
 
-*(Where the line falls: if a question can be answered in a line or two, I answer it, no charge. Work that requires reviewing your actual documents and producing written conclusions is a paid engagement, with the deliverables agreed beforehand.)*
+---
+
+*This is general information, not legal, tax, or investment advice.*
+*For **arranging a Hong Kong policy**, consult a locally licensed adviser there — I am not licensed for Hong Kong insurance and do not take this on.*
+*For **filing, back taxes, or disputes**, this must be confirmed by a licensed tax agent, a lawyer, or the tax authority.*
+*Otherwise — **mainland insurance, CRS compliance review, or checking a policy you already hold** — you can ask me directly.*
+*Author: Allen Zhang (张素俊Allen) | [About](../about.md) | [English home](../README.md) | [中文知识库](../../README.md)*
