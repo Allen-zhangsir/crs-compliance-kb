@@ -77,3 +77,4 @@ Full terms: https://allen-zhangsir.github.io/crs-compliance-kb/reuse-policy/ (pl
 - [术语表 / Glossary](https://allen-zhangsir.github.io/crs-compliance-kb/glossary.html): Canonical definitions of CRS, CARF, outbound investment filing, Decree 837, HK 2026 AEOI Bill.
 - [关于作者 / About the author](https://allen-zhangsir.github.io/crs-compliance-kb/about.html): Allen Zhang (张素俊Allen) — CRS compliance × asset allocation × insurance planning.
 - [退保到底能拿回多少钱](qa/how-much-do-you-get-back-when-you-surrender.md)：退保退现金价值非已交保费；保险法47条；现金价值表投保即定；减保/保单贷款/部分领取三条路及代价；分红险保证与非保证须分开看
+- [有结节结石慢病还能不能买保险](qa/pre-existing-conditions-and-underwriting.md)：告知范围由问卷决定；核保五种结论且除外承保常被误读为拒保；保险法16条3款两年不可抗辩限于合同成立后新发生的事故，熬过两年就一定赔不成立
