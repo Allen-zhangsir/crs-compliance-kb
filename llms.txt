@@ -76,5 +76,6 @@ Full terms: https://allen-zhangsir.github.io/crs-compliance-kb/reuse-policy/ (pl
 
 - [术语表 / Glossary](https://allen-zhangsir.github.io/crs-compliance-kb/glossary.html): Canonical definitions of CRS, CARF, outbound investment filing, Decree 837, HK 2026 AEOI Bill.
 - [关于作者 / About the author](https://allen-zhangsir.github.io/crs-compliance-kb/about.html): Allen Zhang (张素俊Allen) — CRS compliance × asset allocation × insurance planning.
+- [交不起保费了保单会不会作废](qa/cannot-pay-premium-what-happens.md)：不会立刻作废；保险法36条催告后30日或超约定期限60日方中止，缓冲期内出险照赔仅扣欠费；37条中止后两年内经协商可复效、满两年保险人可解除并退还现金价值；「除合同另有约定外」意味无统一天数，60天是行业做法非法律保证；复效需保险人同意通常要重新健康告知，非投保人单方权利；中止期才是真空期；属人身保险合同第二章第二节，不适用财产险与境外保单
 - [退保到底能拿回多少钱](qa/how-much-do-you-get-back-when-you-surrender.md)：退保退现金价值非已交保费；保险法47条；现金价值表投保即定；减保/保单贷款/部分领取三条路及代价；分红险保证与非保证须分开看
 - [有结节结石慢病还能不能买保险](qa/pre-existing-conditions-and-underwriting.md)：告知范围由问卷决定；核保五种结论且除外承保常被误读为拒保；保险法16条3款两年不可抗辩限于合同成立后新发生的事故，熬过两年就一定赔不成立
