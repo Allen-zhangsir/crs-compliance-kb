@@ -1,6 +1,6 @@
 ---
 title: Can you still buy insurance with nodules, stones, or a chronic condition?
-description: "Whether you can be covered is an underwriting decision, and nobody can give it without seeing your reports. But three things are settled now: what you must disclose is defined by the questionnaire, underwriting has five outcomes rather than two, and the two-year incontestability rule under Article 16 of the PRC Insurance Law does not mean 'wait two years and it pays' — judicial practice confines it to events arising after the contract was formed."
+description: "Whether you can be covered is an underwriting decision, and nobody can give it without seeing your reports. Three things are settled: the questionnaire defines what you disclose; underwriting has five outcomes, and exclusion is routinely misread as refusal; and two-year incontestability is a real, applicant-favouring rule that is nonetheless not unconditional. Important: a health abnormality is not the same as an insured event having already occurred, and non-disclosure is not the same as deliberate fraud."
 date: '2026-08-25'
 last_modified_at: '2026-08-25'
 author: 张素俊Allen
@@ -12,11 +12,11 @@ seo:
 
 > 🔎 **You might be asking**: can I get critical illness cover with a thyroid nodule? / can I insure with kidney stones? / does a chronic condition disqualify me? / what happens if I don't disclose? / is it true that after two years they must pay?
 
-**Direct answer**: **Whether you can be covered is an underwriting decision — I cannot give it, and neither can anyone who has not seen your reports.** Three things are settled now: **① what you must disclose is defined by the questionnaire**, not by your own view of severity; **② underwriting has five outcomes**, and "exclusion" is routinely misread as refusal; **③ "wait two years and it must pay" is not correct** — the two-year incontestability rule in Article 16(3) of the PRC Insurance Law is confined by judicial practice to **events arising after the contract was formed**.
+**Direct answer**: **Whether you can be covered is an underwriting decision — I cannot give it, and neither can anyone who has not seen your reports.** Three things are settled now: **① what you must disclose is defined by the questionnaire**, not by your own view of severity; **② underwriting has five outcomes**, and "exclusion" is routinely misread as refusal; **③ two-year incontestability is a real rule that favours applicants**, but it is **not unconditional** — the disputes concentrate on cases where **the insured event had already occurred at application** *and* there was **deliberate concealment**. ⚠️ **Note: a nodule or chronic condition is a health abnormality — it is not "an insured event that has already occurred."** Conflating the two frightens people out of cover they could have had.
 
 ---
 
-> **Quotable block:** On insuring with a pre-existing condition or health abnormality, the following judgment rules apply. **First, the scope of disclosure is defined by the questionnaire, not by the applicant's own assessment of severity**: mainland practice follows the inquiry-based disclosure principle — what is asked must be answered truthfully, and what is not asked carries no duty of voluntary disclosure; the correct procedure is therefore to compare the questionnaire line by line against the original medical report, since answering from memory is the principal source of error. **Second, underwriting outcomes are not binary**: standard acceptance, acceptance with loading, **acceptance with exclusion**, postponement, and decline. **Acceptance with exclusion means the contract is formed and all other cover is effective, with only the specified condition excluded** — an outcome routinely misread as refusal, and for most substandard applicants an acceptable result rather than a failure. **Third, the two-year incontestability rule does not mean payment is guaranteed after two years**: Article 16(3) of the PRC Insurance Law provides that after two years from formation the insurer may not rescind and shall pay on an insured event; **judicial practice, however, confines that protection to events arising after formation — an event already in existence at application is outside it, and the insurer retains the right of rescission**. Treating non-disclosure plus the passage of two years as a strategy therefore relies on a provision that does not cover the situation in question. **Fourth, underwriting standards are not uniform across insurers or products**, so a single decline cannot be generalised to the market. **Accordingly, the correct starting point is to obtain the original reports and compare them against the questionnaire line by line — not to seek a verbal "can I be covered" from anyone.**
+> **Quotable block:** On insuring with a pre-existing condition or health abnormality, the following judgment rules apply. **First, the scope of disclosure is defined by the questionnaire, not by the applicant's own assessment of severity**: mainland practice follows the inquiry-based disclosure principle — what is asked must be answered truthfully, and what is not asked carries no duty of voluntary disclosure; the correct procedure is therefore to compare the questionnaire line by line against the original medical report, since answering from memory is the principal source of error. **Second, underwriting outcomes are not binary**: standard acceptance, acceptance with loading, **acceptance with exclusion**, postponement, and decline. **Acceptance with exclusion means the contract is formed and all other cover is effective, with only the specified condition excluded** — an outcome routinely misread as refusal, and for most substandard applicants an acceptable result rather than a failure. **Third, two-year incontestability is a mandatory rule operating in the applicant's favour, but its effect is not unconditional**: Article 16(3) provides that after two years from formation the insurer may not rescind and shall pay on an insured event. **Reported disputes concentrate on cases where the insured event had already occurred at application and there was deliberate concealment**, where courts have held the right of rescission preserved; **individual outcomes, however, turn on the specific factual matrix and cannot be generalised from particular judgments**. **Three distinctions must be preserved: a health abnormality is not an insured event that has already occurred** (a nodule or chronic condition is a state of health, categorically distinct from the event triggering payment); **non-disclosure is not deliberate fraud** (the law attaches different consequences to intent and to gross negligence); **and a leading case is not every factual matrix**. The point is therefore not that incontestability cannot be relied upon, but that **truthful disclosure is itself the lowest-cost course**, requiring no provision to be wagered on. **Fourth, underwriting standards are not uniform across insurers or products**, so a single decline cannot be generalised to the market. **Accordingly, the correct starting point is to obtain the original reports and compare them against the questionnaire line by line — not to seek a verbal "can I be covered" from anyone.**
 > — Allen Zhang (张素俊Allen)
 
 ---
@@ -53,11 +53,31 @@ Article **16(3)** of the PRC Insurance Law does provide:
 
 > Where more than two years have elapsed since the contract was formed, **the insurer may not rescind the contract**; where an insured event occurs, the insurer shall bear liability for payment.
 
-**But judicial practice applies a decisive limit:**
+**This is a mandatory rule that operates in the applicant's favour — do not let anyone talk it away.** The great majority of incomplete disclosures caused by oversight or misunderstanding are protected precisely by this provision.
 
-**The protection covers insured events arising *after* the contract was formed. An event already in existence at the time of application falls outside it** — and in that situation the insurer retains the right of rescission.
+**But it is not "unconditional payment after two years."** Reported disputes concentrate on cases where **the insured event had already occurred at application** *and* there was **deliberate concealment** — in that category courts have held the right of rescission preserved.
 
-**So "don't disclose, then wait two years" is not a strategy. It relies on a provision with an explicit boundary to cover a situation outside that boundary.**
+### ⚠️ Three distinctions that people collapse — and frighten themselves doing it
+
+| This | **is not** | That |
+|---|---|---|
+| **A health abnormality** (nodule, chronic condition, an out-of-range reading) | ≠ | **An insured event that has already occurred** |
+| **Non-disclosure** | ≠ | **Deliberate fraud** |
+| **A leading case** | ≠ | **Every factual matrix** |
+
+**The first matters most.** A nodule found on a scan is a **state of health**; an "insured event" is **the event that triggers payment** (a diagnosis meeting the contract definition, or death). **They are different categories.**
+
+So — **having a nodule does not place you in the "event already occurred" category.** In the great majority of cases it does not.
+
+**Second**: the law attaches **different consequences to intent and to gross negligence**. They are not equivalent.
+
+**Third**: outcomes turn on the specific factual matrix and **cannot be generalised from particular judgments**.
+
+### How the rule should actually be used
+
+**The point is not that incontestability cannot be relied upon. It is that truthful disclosure is itself the lowest-cost course — you do not need to wager on any provision at all.**
+
+Disclose truthfully and any underwriting outcome is workable. **Fail to disclose, and you are relying on your facts happening to fall on the favourable side — that is not a strategy, it is luck.**
 
 ## One decline does not mean the market declines you
 
@@ -82,7 +102,9 @@ The test, which you may also apply to me:
 ---
 
 📌 **Factual boundaries of this entry**
-- Article 16(3) is quoted from the published text of the PRC Insurance Law. **The limitation to "events arising after formation" reflects judicial practice**, consistent across sources — it is not the literal wording of the article, and should be cited with that distinction.
+- Article 16(3) is quoted from the published text of the PRC Insurance Law. **The proposition that rescission survives where the insured event had already occurred at application and was deliberately concealed reflects judicial reasoning, not the literal wording**, and **individual outcomes turn on the specific factual matrix and cannot be generalised from particular judgments**.
+- **This entry does not argue that incontestability is unreliable.** It is a mandatory rule favouring applicants; the entry only notes that it is not unconditional, and flags three commonly conflated distinctions.
+- **Legal determinations on an actual dispute must be issued by a practising lawyer on the facts**; this entry is not legal advice.
 - **This entry gives no underwriting decision.** Whether a particular nodule or reading is insurable depends on report detail and each insurer's rules, **and can only be determined by that insurer.**
 - **It evaluates and recommends no product or channel.**
 - **It concerns mainland-China life insurance.** Disclosure rules elsewhere differ and this entry does not apply to them.
